@@ -1,0 +1,114 @@
+- complementary:
+  - heading [level=2]: Perfil
+  - button:
+    - generic: close
+  - status
+  - heading [level=2]: Interesses
+  - list:
+    - button: Cursos
+    - button: Comunidades
+  - paragraph: Vocês não compartilham nenhum curso em comum.
+  - heading [level=2]: Destaques
+  - status
+  - heading [level=2]: Atividades
+  - heading [level=3]: Sem publicações por enquanto
+  - paragraph: Quando você fizer publicações, elas aparecerão aqui.
+- button:
+- link "logo":
+  - /url: /
+  - generic: Além da Genética 2.0
+- generic: G
+- generic: Minha conta
+- generic: Minhas compras
+- generic: Central de Ajuda
+- generic: Sair
+- generic: Início
+- generic: Produtos à venda
+- generic: Minhas compras
+- generic: Pontos e Ranking
+- generic: Dúvidas frequentes
+- contentinfo:
+  - paragraph: Powered by
+- main:
+  - link "Voltar":
+    - /url: /pt-BR/club/alem-da-genetica-20/products/6315578
+    - generic: Voltar
+  - tooltip "Anterior":
+    - link "Anterior":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/M7G9mjr84w?track=EM7qZDAyOx&source=CLASS_TOP_ARROW
+  - tooltip "Próxima":
+    - link "Próxima":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/RON9mKXE7P?track=EM7qZDAyOx&source=CLASS_TOP_ARROW
+  - paragraph:
+    - generic: BOAS VINDAS
+  - heading "NA PLANILHA" [level=1]
+  - iframe
+  - radio "Avalie entre 1 e 5 estrelas"
+  - radio "Avalie entre 1 e 5 estrelas"
+  - radio "Avalie entre 1 e 5 estrelas"
+  - radio "Avalie entre 1 e 5 estrelas"
+  - radio "Avalie entre 1 e 5 estrelas"
+  - button "Concluir Ícone de checado":
+    - generic: Concluir
+    - img "Ícone de checado"
+  - generic: + 10
+  - button "Informações da aula"
+  - complementary:
+    - tablist:
+      - tooltip:
+        - tab [selected]:
+    - tooltip "Configurações":
+      - button "Configurações":
+    - tooltip "Ocultar lista":
+      - button "Ocultar lista":
+    - textbox "Buscar conteúdo"
+    - button "Buscar conteúdo" [disabled]:
+    - generic: Trilha de conhecimento
+    - generic: COMECE POR AQUI
+    - button "1 BOAS VINDAS 38% 38" [expanded]:
+      - generic: "1"
+      - generic "BOAS VINDAS"
+      - generic: 38%
+      - progressbar "Progresso do módulo BOAS VINDAS"
+    - link "Ícone de um curso do tipo Texto ESTÁ COM ALGUMA DÚVIDA OU DIFICULDADE? CHAMA A GENTE!":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/kOXxKRpVOW?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - img "Ícone de um curso do tipo Texto"
+      - generic "ESTÁ COM ALGUMA DÚVIDA OU DIFICULDADE? CHAMA A GENTE!"
+    - button "Marcar aula ESTÁ COM ALGUMA DÚVIDA OU DIFICULDADE? CHAMA A GENTE! como finalizada":
+    - link "01:42 SEJA BEM VINDO":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/a4RYmnkrOn?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 01:42
+      - generic "SEJA BEM VINDO"
+    - button "Marcar aula SEJA BEM VINDO como finalizada":
+    - link "04:09 GRUPOS MUSCULARES":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/Me1vJwmJ7Y?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 04:09
+      - generic "GRUPOS MUSCULARES"
+    - button "Marcar aula GRUPOS MUSCULARES como finalizada":
+    - link "01:06 NÚMERO DE REPETIÇÕES":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/M7G9mjr84w?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 01:06
+      - generic "NÚMERO DE REPETIÇÕES"
+    - button "Marcar aula NÚMERO DE REPETIÇÕES como finalizada":
+    - 'link "Aula {{index}} está sendo reproduzida Tocando agora NA PLANILHA"':
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/2OMJmgv946?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - 'img "Aula {{index}} está sendo reproduzida"'
+      - paragraph: Tocando agora
+      - generic "NA PLANILHA"
+    - button "Marcar aula NA PLANILHA como finalizada":
+    - link "00:42 INTERVALO":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/RON9mKXE7P?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 00:42
+      - generic "INTERVALO"
+    - button "Marcar aula INTERVALO como finalizada":
+    - link "02:17 DÚVIDA 1":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/V73DJakZO3?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 02:17
+      - generic "DÚVIDA 1"
+    - button "Marcar aula DÚVIDA 1 como finalizada":
+    - link "02:14 DÚVIDA 2":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/content/97BglXzGOp?track=EM7qZDAyOx&source=CLASS_MODULES_LIST
+      - generic: 02:14
+      - generic "DÚVIDA 2"
+    - button "Marcar aula DÚVIDA 2 como finalizada":
+- alert

@@ -1,0 +1,378 @@
+- complementary:
+  - heading [level=2]: Perfil
+  - button:
+    - generic: close
+  - status
+  - heading [level=2]: Interesses
+  - list:
+    - button: Cursos
+    - button: Comunidades
+  - paragraph: Vocês não compartilham nenhum curso em comum.
+  - heading [level=2]: Destaques
+  - status
+  - heading [level=2]: Atividades
+  - heading [level=3]: Sem publicações por enquanto
+  - paragraph: Quando você fizer publicações, elas aparecerão aqui.
+- button:
+- link "logo":
+  - /url: /
+  - generic: Além da Genética 2.0
+- button "notification icon":
+  - generic "notification icon":
+    - status "notification badge"
+- generic: G
+- generic: Minha conta
+- generic: Minhas compras
+- generic: Central de Ajuda
+- generic: Sair
+- generic: Início
+- generic: Produtos à venda
+- generic: Minhas compras
+- generic: Pontos e Ranking
+- generic: Dúvidas frequentes
+- contentinfo:
+  - paragraph: Powered by
+- main:
+  - generic: Cursos Online
+  - heading "Além da Genética 2.0 - Por Fabrício Pacholok" [level=2]
+  - generic: O salto que você precisa dar no seu físico para deixar de ser um iniciante e caminhar para uma forma mais atlética e avançada, você encontra aqui o caminho, em ...Mostrar mais
+  - tab "Conteúdo do curso" [selected]
+  - tab "Avaliações"
+  - tabpanel:
+    - generic: 116 aulas
+    - generic: 2h 3min de conteúdo
+    - generic: Português
+    - article:
+      - generic: "1"
+      - generic: PARTICIPE DO PACHOLOK TEAM
+      - generic: PARTICIPE DO PACHOLOK TEAM
+    - article:
+      - generic: "2"
+      - generic: BOAS VINDAS
+      - generic: ESTÁ COM ALGUMA DÚVIDA OU DIFICULDADE? CHAMA A GENTE!
+      - generic: SEJA BEM VINDO
+      - generic: 01:42
+      - generic: GRUPOS MUSCULARES
+      - generic: 04:09
+      - generic: NÚMERO DE REPETIÇÕES
+      - generic: 01:06
+      - generic: NA PLANILHA
+      - generic: 02:56
+      - generic: INTERVALO
+      - generic: 00:42
+      - generic: DÚVIDA 1
+      - generic: 02:17
+      - generic: DÚVIDA 2
+      - generic: 02:14
+    - article:
+      - generic: "3"
+      - generic: "TUTORIAL: COMO BAIXAR O APP"
+      - generic: COMO BAIXAR O APP NO ANDROID
+      - generic: 02:15
+      - generic: COMO BAIXAR APP PELO IPHONE
+      - generic: 00:55
+    - article:
+      - generic: "4"
+      - generic: "TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO"
+      - generic: "TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO"
+      - generic: 01:09
+    - article:
+      - generic: "5"
+      - generic: RECOMENDAÇÕES GERAIS
+      - generic: RECOMENDAÇÕES GERAIS
+    - article:
+      - generic: "6"
+      - generic: ADAPTAÇÃO MUSCULAR
+      - generic: TREINO ADAPTAÇÃO MUSCULAR
+    - article:
+      - generic: "7"
+      - generic: TREINO INICIANTES 2 VEZES NA SEMANA
+      - generic: TREINO INICIANTES 2 VEZES NA SEMANA
+    - article:
+      - generic: "8"
+      - generic: TREINO INICIANTES 4 VEZES NA SEMANA
+      - generic: TREINO INICIANTES 4 VEZES NA SEMANA
+    - article:
+      - generic: "9"
+      - generic: TREINO ABCD (intermediarios)
+      - generic: TREINO ABCD (intermediarios)
+    - article:
+      - generic: "10"
+      - generic: TREINO PPL (ABC) intermediários
+      - generic: TREINO PPL (ABC) intermediários
+    - article:
+      - generic: "11"
+      - generic: TREINO ABCDE (ENFASE EM MEMBROS INFERIORES)
+      - generic: TREINO ABCDE (ENFASE EM MEMBROS INFERIORES)
+    - article:
+      - generic: "12"
+      - generic: TREINO ABCDE (ENFASE EM MEMBROS SUPERIORES)
+      - generic: TREINO ABCDE (ENFASE EM MEMBROS SUPERIORES)
+    - article:
+      - generic: "13"
+      - generic: TREINO ABCD (avançados)
+      - generic: TREINO ABCD (avançados)
+    - article:
+      - generic: "14"
+      - generic: TREINO ABCDEF (SUPER AVANÇADO) | DEREK - OPEN OLYMPIA
+      - generic: TREINO ABCDEF (SUPER AVANÇADO) | DEREK - OPEN OLYMPIA
+    - article:
+      - generic: "15"
+      - generic: TREINO PPL (ABC DESCANSO DEF)
+      - generic: TREINO PPL (ABC DESCANSO DEF)
+    - article:
+      - generic: "16"
+      - generic: TREINO PPL (ABC)
+      - generic: TREINO PPL (ABC)
+    - article:
+      - generic: "17"
+      - generic: UPPER AND LOWER 4X NA SEMANA
+      - generic: Treino UPPER AND LOWER
+    - article:
+      - generic: "18"
+      - generic: PUSH-PULL-LEG-UPPER-LOWER | ZANCA
+      - generic: Treino PUSH-PULL-LEG-UPPER-LOWER | ZANCA
+    - article:
+      - generic: "19"
+      - generic: TREINO MENS PHYSIQUE NIVEL OLYMPIA | Ali Bilau
+      - generic: TREINO MENS PHYSIQUE NIVEL OLYMPIA | Ali Bilau
+    - article:
+      - generic: "20"
+      - generic: ABCDEF Classic Olympia - Ramon Dino e Menegate
+      - generic: Treino ABCDEF Classic Olympia - Ramon&nbsp;Dino&nbsp;e&nbsp;Menegate
+    - article:
+      - generic: "21"
+      - generic: TREINO PARA MULHERES 2 X NA SEMANA AB
+      - generic: TREINO PARA MULHERES 2 X NA SEMANA AB
+    - article:
+      - generic: "22"
+      - generic: TREINO PARA MULHERES 4X NA SEMANA AB
+      - generic: TREINO PARA MULHERES 4X NA SEMANA AB
+    - article:
+      - generic: "23"
+      - generic: TREINO PARA MULHER 3X NA SEMANA AVANÇADO
+      - generic: TREINO PARA MULHER 3X NA SEMANA AVANÇADO
+    - article:
+      - generic: "24"
+      - generic: TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS
+      - generic: TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS
+    - article:
+      - generic: "25"
+      - generic: TREINO PARA MULHER 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR)
+      - generic: TREINO 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR)
+    - article:
+      - generic: "26"
+      - generic: BICEPS
+      - generic: ROSCA SCOTT NO CABO
+      - generic: 02:10
+      - generic: ROSCA SCOTT MÁQUINA
+      - generic: 01:11
+      - generic: ROSCA DIRETA BANCO INCLINADO
+      - generic: 01:36
+      - generic: ROSCA SCOTT BARRA LIVRE
+      - generic: 01:21
+      - generic: ROSCA MARTELO
+      - generic: 00:40
+      - generic: ROSCA DUPLO BÍCEPS NO CROSS
+      - generic: 01:00
+      - generic: ROSCA DIRETA NO CABO
+      - generic: 00:50
+      - generic: ROSCA DIRETA CORDA
+      - generic: 00:52
+      - generic: ROSCA DIRETA BARRA
+      - generic: 01:16
+    - article:
+      - generic: "27"
+      - generic: MANGUITO
+      - generic: MANGUITO ELÁSTICO
+      - generic: 00:47
+      - generic: MANGUITO ROTADOR
+      - generic: 01:05
+      - generic: MANGUITO 2
+      - generic: 00:49
+    - article:
+      - generic: "28"
+      - generic: ABDÔMEN
+      - generic: ABDÔMEN SUPRA NO SOLO
+      - generic: 00:40
+      - generic: INFRA NA PRANCHA DECLINADA
+      - generic: 00:34
+      - generic: INFRA NA TORRE
+      - generic: 00:55
+      - generic: PRANCHA ISOMÉTRICA
+      - generic: 00:33
+      - generic: SUPRA NA PRANCHA
+      - generic: 00:38
+    - article:
+      - generic: "29"
+      - generic: GLUTEO
+      - generic: LEVANTAMENTO TERRA SUMÔ
+      - generic: 02:00
+      - generic: HIPEREXTENSÃO PARA GLÚTEOS
+      - generic: 02:04
+    - article:
+      - generic: "30"
+      - generic: PANTURRILHA
+      - generic: PANTURRILHA SENTADO
+      - generic: 00:53
+      - generic: PANTURRILHA EM PÉ NA MÁQUINA
+      - generic: 00:53
+      - generic: SUPERSET PANTURRILHAS
+      - generic: 02:28
+    - article:
+      - generic: "31"
+      - generic: PERNAS
+      - generic: EXTENSÃO DE QUADRIL NO CABO
+      - generic: 01:38
+      - generic: ELEVAÇÃO DE QUADRIL
+      - generic: 02:13
+      - generic: CADEIRA ABDUTORA
+      - generic: 00:52
+      - generic: AGACHAMENTO BÚLGARO
+      - generic: 01:44
+      - generic: AGACHAMENTO BÚLGARO COM HALTERES
+      - generic: 01:08
+      - generic: AFUNDO NO SMITH
+      - generic: 01:44
+      - generic: ABDUÇÃO NO CABO
+      - generic: 00:42
+      - generic: AGACHAMENTO LIVRE
+      - generic: 01:28
+      - generic: AGACHAMENTO SMITH
+      - generic: 01:46
+      - generic: CADEIRA ADUTORA
+      - generic: 00:42
+      - generic: CADEIRA EXTENSORA
+      - generic: 00:59
+      - generic: FLEXOR DEITADO
+      - generic: 01:24
+      - generic: FLEXOR EM PÉ
+      - generic: 01:13
+      - generic: FLEXOR SENTADO
+      - generic: 01:10
+      - generic: HACK MACHINE
+      - generic: 01:57
+      - generic: LEG PRESS 45º
+      - generic: 02:07
+      - generic: STIFF COM ELÁSTICO
+      - generic: 01:51
+      - generic: STIFF
+      - generic: 01:52
+    - article:
+      - generic: "32"
+      - generic: TRICEPS
+      - generic: TRÍCEPS FRANCÊS COM HALTERES
+      - generic: 01:08
+      - generic: TRÍCEPS PARALELA
+      - generic: 00:47
+      - generic: TRÍCEPS FRANCÊS NO CABO
+      - generic: 00:53
+      - generic: TRÍCEPS POLIA ALTA
+      - generic: 00:50
+      - generic: TRÍCEPS TESTA BANCO INCLINADO
+      - generic: 01:16
+      - generic: TRÍCEPS TESTA EM PÉ
+      - generic: 00:50
+    - article:
+      - generic: "33"
+      - generic: OMBROS
+      - generic: ELEVAÇÃO LATERAL MÁQUINA
+      - generic: 01:31
+      - generic: DESENVOLVIMENTO COM HALTERES
+      - generic: 01:14
+      - generic: DESENVOLVIMENTO SMITH
+      - generic: 01:25
+      - generic: ELEVAÇÃO FRONTAL NO CABO
+      - generic: 00:57
+      - generic: ELEVAÇÃO FRONTAL HALTERES
+      - generic: 01:16
+      - generic: ELEVAÇÃO LATERAL BANCO 45
+      - generic: 01:13
+      - generic: ELEVAÇÃO LATERAL UNILATERAL CABO
+      - generic: 01:12
+      - generic: ELEVAÇÃO LATERAL HALTERES
+      - generic: 00:56
+      - generic: DESENVOLVIMENTO MAQUINA
+      - generic: 01:02
+    - article:
+      - generic: "34"
+      - generic: COSTAS
+      - generic: CRUCIFIXO INVERSO NA MÁQUINA
+      - generic: 00:40
+      - generic: CRUCIFIXO INVERSO NO CABO
+      - generic: 00:42
+      - generic: HIPEREXTENSÃO NO BANCO ROMANO
+      - generic: 01:13
+      - generic: MEIO TERRA
+      - generic: 01:28
+      - generic: PULL DOWN
+      - generic: 01:04
+      - generic: PUXADA FRENTE PEGADA FECHADA
+      - generic: 01:33
+      - generic: PUXADA FRENTE PEGADA ABERTA
+      - generic: 01:02
+      - generic: REMADA BAIXA PEGADA FECHADA
+      - generic: 01:13
+      - generic: REMADA BAIXA PEGADA UNILATERAL
+      - generic: 00:42
+      - generic: REMADA CURVADA
+      - generic: 00:50
+      - generic: REMADA MÁQUINA COM A PEGADA FECHADA
+      - generic: 00:37
+      - generic: REMADA MÁQUINA PEGADA ABERTA
+      - generic: 00:42
+      - generic: REMADA UNILATERAL COM HALTERES
+      - generic: 01:27
+      - generic: REMADA BAIXA PEGADA ABERTA
+      - generic: 01:01
+    - article:
+      - generic: "35"
+      - generic: PEITO
+      - generic: CRUCIFIXO INCLINADO NO CABO
+      - generic: 01:19
+      - generic: SUPINO DECLINADO MÁQUINA
+      - generic: 01:17
+      - generic: CRUCIFIXO RETO COM HALTERES
+      - generic: 01:14
+      - generic: CROSSOVER
+      - generic: 01:02
+      - generic: SUPINO DECLINADO COM BARRA
+      - generic: 00:42
+      - generic: SUPINO INCLINADO COM HALTERES
+      - generic: 01:25
+      - generic: SUPINO INCLINADO MÁQUINA
+      - generic: 01:20
+      - generic: SUPINO RETO COM HALTERES
+      - generic: 01:25
+      - generic: SUPINO RETO MÁQUINA
+      - generic: 01:14
+      - generic: VOADOR
+      - generic: 01:04
+    - article:
+      - generic: "36"
+      - generic: TÉCNICAS DE INTESINFICAÇÃO
+      - generic: CLUSTER SET
+      - generic: 02:23
+      - generic: REST PAUSE
+      - generic: 02:56
+      - generic: DROP SET
+      - generic: 01:44
+      - generic: REPETIÇÕES PARCIAIS - ELÁSTICO
+      - generic: 02:55
+  - combobox "Valor da compra":
+    - option "1 x de R$ 79,90"
+    - option "2 x de R$ 42,05 *"
+    - option "3 x de R$ 28,51 *"
+    - option "4 x de R$ 21,75 *"
+    - option "5 x de R$ 17,69 *"
+    - option "6 x de R$ 14,99 *"
+    - option "7 x de R$ 13,06 *"
+    - option "8 x de R$ 11,62 *"
+    - option "9 x de R$ 10,50 *"
+    - option "10 x de R$ 9,60 *"
+    - option "11 x de R$ 8,87 *" [selected]
+  - generic: Dados de pagamento redigidos para publicacao publica
+  - generic: Garantia de 7 dias
+  - generic: Protegido por
+  - img "Hotmart"
+- alert

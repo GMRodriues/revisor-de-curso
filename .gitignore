@@ -1,0 +1,19 @@
+# Runtime outputs
+artifacts/tmp/
+
+# Local env and secrets
+.env
+.env.*
+*.local
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Node/Python future tooling
+node_modules/
+__pycache__/
+.venv/
+dist/
+build/

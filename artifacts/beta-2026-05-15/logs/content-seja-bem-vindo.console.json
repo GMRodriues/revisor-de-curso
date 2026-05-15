@@ -1,0 +1,140 @@
+[
+  {
+    "level": "warn",
+    "message": "ResponseValidator._processSigninParams: Response was error login_required",
+    "timestamp": "2026-05-15T20:25:21.188Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "error",
+    "message": "dataGtmElement not found. Please inform dataGtmElement or use direct google tag manager",
+    "timestamp": "2026-05-15T20:25:50.851Z",
+    "url": "https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9"
+  },
+  {
+    "level": "error",
+    "message": "Error attaching device fingerprint to form: FingerprintError: Input field for device fingerprint not found\n    at new e (https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9:1:130961)\n    at https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9:1:348790\n    at https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9:1:348934",
+    "timestamp": "2026-05-15T20:25:51.710Z",
+    "url": "https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9"
+  },
+  {
+    "level": "error",
+    "message": "dataGtmElement not found. Please inform dataGtmElement or use direct google tag manager",
+    "timestamp": "2026-05-15T20:27:17.515Z",
+    "url": "https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9"
+  },
+  {
+    "level": "error",
+    "message": "dataGtmElement not found. Please inform dataGtmElement or use direct google tag manager",
+    "timestamp": "2026-05-15T20:27:29.345Z",
+    "url": "https://sso.hotmart.com/themes/custom/js/custom.bundle.min.js?v=0.24.9"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:28:40.202Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:28:40.203Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:28:40.982Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:28:40.982Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:28:41.668Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:28:41.668Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:32:09.560Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:32:09.560Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:32:10.482Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:32:10.482Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:33:39.598Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:33:39.598Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:33:39.719Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:33:39.719Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:34:34.659Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:34:34.659Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "MetadataService.getMetadataProperty: Metadata does not contain optional property check_session_iframe",
+    "timestamp": "2026-05-15T20:34:35.067Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  },
+  {
+    "level": "warn",
+    "message": "SessionMonitor._start: No check session iframe found in the metadata",
+    "timestamp": "2026-05-15T20:34:35.067Z",
+    "url": "https://app-club-distribution.cp.hotmart.com/bundle/1.28.8/_next/static/chunks/pages/_app.8dd89178e753fc14.production-1.28.8.js"
+  }
+]

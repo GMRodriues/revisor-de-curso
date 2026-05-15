@@ -1,0 +1,37 @@
+{
+  "course": {
+    "id": "",
+    "title": "",
+    "platformUrl": "",
+    "reviewScope": "full_course"
+  },
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "modules": [
+    {
+      "id": "",
+      "title": "",
+      "lessons": [
+        {
+          "id": "",
+          "title": "",
+          "pages": [
+            {
+              "id": "",
+              "index": 1,
+              "url": "",
+              "expectedContentTypes": ["text"],
+              "requiredChecks": ["load", "navigation", "layout"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

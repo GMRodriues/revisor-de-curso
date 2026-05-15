@@ -1,0 +1,210 @@
+- complementary:
+  - heading [level=2]: Perfil
+  - button:
+    - generic: close
+  - status
+  - heading [level=2]: Interesses
+  - list:
+    - button: Cursos
+    - button: Comunidades
+  - paragraph: Vocês não compartilham nenhum curso em comum.
+  - heading [level=2]: Destaques
+  - status
+  - heading [level=2]: Atividades
+  - heading [level=3]: Sem publicações por enquanto
+  - paragraph: Quando você fizer publicações, elas aparecerão aqui.
+- button:
+- link "logo":
+  - /url: /
+  - generic: Além da Genética 2.0
+- button "notification icon":
+  - generic "notification icon":
+    - status "notification badge"
+- generic: G
+- generic: Minha conta
+- generic: Minhas compras
+- generic: Central de Ajuda
+- generic: Sair
+- button "tutor-ia-button":
+- generic: Início
+- generic: Produtos à venda
+- generic: Minhas compras
+- generic: Pontos e Ranking
+- generic: Dúvidas frequentes
+- contentinfo:
+  - paragraph: Powered by
+- main:
+  - button "Boas-vindas! Me conte seus objetivos e destrave o conteúdo exato que você precisa":
+    - generic: Boas-vindas! Me conte seus objetivos e destrave o conteúdo exato que você precisa
+  - link "Voltar":
+    - /url: https://hotmart.com/pt-br/club/alem-da-genetica-20
+    - generic: Voltar
+  - heading "Além da Genética 2.0 - Por Fabrício Pacholok" [level=1]:
+    - generic: Além da Genética 2.0 - Por Fabrício Pacholok
+  - generic: O salto que você precisa dar no seu físico para deixar de ser um iniciante e caminhar para uma forma mais atlética e avançada, você encontra aqui o caminho, em treinos elaborados para alavancar sua rotina na academia! Vídeos completos, com as técnicas de atletas de elite do bodybuilding brasileiro! Adquira agora e mude se shape!
+  - button "Mostrar mais"
+  - generic: 4/116 conteúdos
+  - generic: ⏤
+  - generic "3": 3%
+  - progressbar
+  - button "Continuar assistindo"
+  - tablist:
+    - tab "Conteúdos"
+    - tab "Trilhas"
+    - tab "Sobre"
+  - tabpanel "Conteúdos":
+    - heading "Trilhas" [level=2]
+    - button "Mostrar todos (25)":
+      - text: Mostrar todos (25)
+    - link "Trilha PARTICIPE DO PACHOLOK TEAM Acessar PARTICIPE DO PACHOLOK TEAM":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/ZYOm6M2q4d
+      - generic: Trilha
+      - generic: PARTICIPE DO PACHOLOK TEAM
+      - button "Acessar"
+      - generic: PARTICIPE DO PACHOLOK TEAM
+    - link "Trilha COMECE POR AQUI Acessar COMECE POR AQUI":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/EM7qZDAyOx
+      - generic: Trilha
+      - generic: COMECE POR AQUI
+      - button "Acessar"
+      - generic: COMECE POR AQUI
+    - 'link "Trilha TUTORIAL: COMO BAIXAR O APP Acessar TUTORIAL: COMO BAIXAR O APP"':
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/vROx6oXaeD
+      - generic: Trilha
+      - generic: "TUTORIAL: COMO BAIXAR O APP"
+      - button "Acessar"
+      - generic: "TUTORIAL: COMO BAIXAR O APP"
+    - 'link "Trilha TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO Acessar TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO"':
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/qV7yEG9z7J
+      - generic: Trilha
+      - generic: "TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO"
+      - button "Acessar"
+      - generic: "TUTORIAL: COMO ACHAR OS VÍDEOS DOS EXERCÍCIOS NO CURSO"
+    - link "Trilha RECOMENDAÇÕES GERAL Acessar RECOMENDAÇÕES GERAL":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/W0OvkJKV4j
+      - generic: Trilha
+      - generic: RECOMENDAÇÕES GERAL
+      - button "Acessar"
+      - generic: RECOMENDAÇÕES GERAL
+    - link "Trilha TREINO PARA MULHERES 2 X NA SEMANA AB Acessar TREINO PARA MULHERES 2 X NA SEMANA AB":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/wa4RLo837n
+      - generic: Trilha
+      - generic: TREINO PARA MULHERES 2 X NA SEMANA AB
+      - button "Acessar"
+      - generic: TREINO PARA MULHERES 2 X NA SEMANA AB
+    - link "Trilha TREINO PARA MULHERES 4X NA SEMANA AB Acessar TREINO PARA MULHERES 4X NA SEMANA AB":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/W0OvkGD54j
+      - generic: Trilha
+      - generic: TREINO PARA MULHERES 4X NA SEMANA AB
+      - button "Acessar"
+      - generic: TREINO PARA MULHERES 4X NA SEMANA AB
+    - link "Trilha TREINO PARA MULHER 3X NA SEMANA AVANÇADO Acessar TREINO PARA MULHER 3X NA SEMANA AVANÇADO":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/pRONbr5YOP
+      - generic: Trilha
+      - generic: TREINO PARA MULHER 3X NA SEMANA AVANÇADO
+      - button "Acessar"
+      - generic: TREINO PARA MULHER 3X NA SEMANA AVANÇADO
+    - link "Trilha TREINO 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR) Acessar TREINO 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR)":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/qoODjWabeP
+      - generic: Trilha
+      - generic: TREINO 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR)
+      - button "Acessar"
+      - generic: TREINO 4X NA SEMANA- UPPER- LOWER (SUPERIOR- INFERIOR)
+    - link "Trilha TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS Acessar TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/PBeZGn557w
+      - generic: Trilha
+      - generic: TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS
+      - button "Acessar"
+      - generic: TREINO PARA MULHER 5X NA SEMANA ÊNFASE QUADRICEPS
+    - link "Trilha ADAPTAÇÃO MUSCULAR Acessar ADAPTAÇÃO MUSCULAR":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/qV7yEYrz7J
+      - generic: Trilha
+      - generic: ADAPTAÇÃO MUSCULAR
+      - button "Acessar"
+      - generic: ADAPTAÇÃO MUSCULAR
+    - link "Trilha INICIANTES 2x NA SEMANA Acessar INICIANTES 2x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/B146Pnxx7d
+      - generic: Trilha
+      - generic: INICIANTES 2x NA SEMANA
+      - button "Acessar"
+      - generic: INICIANTES 2x NA SEMANA
+    - link "Trilha INICIANTES 4x NA SEMANA Acessar INICIANTES 4x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/Pk45ngVJel
+      - generic: Trilha
+      - generic: INICIANTES 4x NA SEMANA
+      - button "Acessar"
+      - generic: INICIANTES 4x NA SEMANA
+    - link "Trilha INTERMEDIÁRIO- ABCD Acessar INTERMEDIÁRIO- ABCD":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/8EOglgjG46
+      - generic: Trilha
+      - generic: INTERMEDIÁRIO- ABCD
+      - button "Acessar"
+      - generic: INTERMEDIÁRIO- ABCD
+    - link "Trilha TREINO PPL (ABC) INTERMEDÍARIO Acessar TREINO PPL (ABC) INTERMEDÍARIO":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/Pb4KZqAwOX
+      - generic: Trilha
+      - generic: TREINO PPL (ABC) INTERMEDÍARIO
+      - button "Acessar"
+      - generic: TREINO PPL (ABC) INTERMEDÍARIO
+    - link "Trilha TREINO ABCDE ÊNFASE EM INFERIORES Acessar TREINO ABCDE ÊNFASE EM INFERIORES":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/DPeAd0E34W
+      - generic: Trilha
+      - generic: TREINO ABCDE ÊNFASE EM INFERIORES
+      - button "Acessar"
+      - generic: TREINO ABCDE ÊNFASE EM INFERIORES
+    - link "Trilha TREINO ABCDE ÊNFASE EM SUPERIORES Acessar TREINO ABCDE ÊNFASE EM SUPERIORES":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/rRO91WD1OP
+      - generic: Trilha
+      - generic: TREINO ABCDE ÊNFASE EM SUPERIORES
+      - button "Acessar"
+      - generic: TREINO ABCDE ÊNFASE EM SUPERIORES
+    - link "Trilha TREINO ABCD AVANÇADOS Acessar TREINO ABCD AVANÇADOS":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/ZNOwqYzYem
+      - generic: Trilha
+      - generic: TREINO ABCD AVANÇADOS
+      - button "Acessar"
+      - generic: TREINO ABCD AVANÇADOS
+    - link "Trilha TREINO ABCDEF DEREK OPEN OLYMPIA Acessar TREINO ABCDEF DEREK OPEN OLYMPIA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/9M7G06NaOw
+      - generic: Trilha
+      - generic: TREINO ABCDEF DEREK OPEN OLYMPIA
+      - button "Acessar"
+      - generic: TREINO ABCDEF DEREK OPEN OLYMPIA
+    - link "Trilha TREINO PPL ABC DESCANÇO DEF 6x NA SEMANA Acessar TREINO PPL ABC DESCANÇO DEF 6x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/j14odvjYep
+      - generic: Trilha
+      - generic: TREINO PPL ABC DESCANÇO DEF 6x NA SEMANA
+      - button "Acessar"
+      - generic: TREINO PPL ABC DESCANÇO DEF 6x NA SEMANA
+    - link "Trilha TREINO PPL ABC 3x NA SEMANA Acessar TREINO PPL ABC 3x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/d64ly9Z2ej
+      - generic: Trilha
+      - generic: TREINO PPL ABC 3x NA SEMANA
+      - button "Acessar"
+      - generic: TREINO PPL ABC 3x NA SEMANA
+    - link "Trilha UPPER AND LOWER 4x NA SEMANA Acessar UPPER AND LOWER 4x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/ZYOm692A4d
+      - generic: Trilha
+      - generic: UPPER AND LOWER 4x NA SEMANA
+      - button "Acessar"
+      - generic: UPPER AND LOWER 4x NA SEMANA
+    - link "Trilha USH-PULL-LEG-UPPER-LOWER ZANCA 5x NA SEMANA Acessar USH-PULL-LEG-UPPER-LOWER ZANCA 5x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/qV73NqrQe3
+      - generic: Trilha
+      - generic: USH-PULL-LEG-UPPER-LOWER ZANCA 5x NA SEMANA
+      - button "Acessar"
+      - generic: USH-PULL-LEG-UPPER-LOWER ZANCA 5x NA SEMANA
+    - link "Trilha TREINO MENS PHYSIQUE ALI BILAL 5x NA SEMANA Acessar TREINO MENS PHYSIQUE ALI BILAL 5x NA SEMANA":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/qoODjLbQeP
+      - generic: Trilha
+      - generic: TREINO MENS PHYSIQUE ALI BILAL 5x NA SEMANA
+      - button "Acessar"
+      - generic: TREINO MENS PHYSIQUE ALI BILAL 5x NA SEMANA
+    - link "Trilha ABCDEF Classic Olympia - Ramon Dino e Menegate Acessar ABCDEF Classic Olympia - Ramon Dino e Menegate":
+      - /url: /pt-BR/club/alem-da-genetica-20/products/6315578/track/x3eaPwaB4g
+      - generic: Trilha
+      - generic: ABCDEF Classic Olympia - Ramon Dino e Menegate
+      - button "Acessar"
+      - generic: ABCDEF Classic Olympia - Ramon Dino e Menegate
+    - generic: next
+- alert

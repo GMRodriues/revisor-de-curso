@@ -1,0 +1,505 @@
+{
+  "source": "/Users/gabrielrodrigues/Downloads/OPGPN3_VF (2).docx",
+  "paragraph_count": 17,
+  "table_count": 6,
+  "comment_count": 0,
+  "paragraphs": [
+    {
+      "index": 1,
+      "style": "Normal",
+      "text": "Cursos MOOC – Registo de Teste Beta"
+    },
+    {
+      "index": 2,
+      "style": "Heading 1",
+      "text": "Identificação do curso"
+    },
+    {
+      "index": 3,
+      "style": "Heading 1",
+      "text": "Identificação de ocorrências e propostas de melhoria"
+    },
+    {
+      "index": 4,
+      "style": "Normal",
+      "text": "Coloque as suas sugestões sequencialmente pela ordem em que aparecem no curso."
+    },
+    {
+      "index": 5,
+      "style": "Normal",
+      "text": "Identifique a página/secção à qual se refere a proposta de melhoria ou ocorrência."
+    },
+    {
+      "index": 6,
+      "style": "Normal",
+      "text": "Introduza sempre print screens para facilitar a correção."
+    },
+    {
+      "index": 7,
+      "style": "Normal",
+      "text": "Para correções de erros ortográficos ou reformulação de texto, copie a versão existente e à frente coloque a versão correta (exemplo: … está a chuver 🡪 está a chover)."
+    },
+    {
+      "index": 8,
+      "style": "Normal",
+      "text": "Veja o exemplo na 1º linha, que depois deve apagar."
+    },
+    {
+      "index": 19,
+      "style": "Heading 1",
+      "text": "Avaliação do curso – alinhamento com o público-alvo e recursos"
+    },
+    {
+      "index": 20,
+      "style": "Normal",
+      "text": "Caso assinale a resposta Não, por favor, justifique no campo Observações, se possível, com captação do(s) ecrã(s) em questão."
+    },
+    {
+      "index": 23,
+      "style": "Heading 1",
+      "text": "Avaliação do curso – experiência do formando"
+    },
+    {
+      "index": 24,
+      "style": "Normal",
+      "text": "Avalie os aspetos apresentados em abaixo, de 1 a 5, correspondendo 1 a Muito Difícil e 5 a Muito Fácil."
+    },
+    {
+      "index": 25,
+      "style": "Normal",
+      "text": "Caso assinale a resposta 1 ou 2, por favor, justifique no campo Observações ou na secção 3, se possível, com captação do(s) ecrã(s) em questão."
+    },
+    {
+      "index": 28,
+      "style": "Heading 1",
+      "text": "Outras Observações"
+    },
+    {
+      "index": 29,
+      "style": "Normal",
+      "text": "Se entender ser útil para este Beta Teste, use este espaço para deixar mais opiniões não previstas no formulário."
+    },
+    {
+      "index": 33,
+      "style": "Normal",
+      "text": "Obrigada por participar neste beta test"
+    },
+    {
+      "index": 34,
+      "style": "Normal",
+      "text": "Os seus contributos são fundamentais para identificar os aspetos que precisam de ser melhorados."
+    }
+  ],
+  "tables": [
+    {
+      "index": 1,
+      "rows": [
+        [
+          "O curso",
+          "",
+          "O teste",
+          ""
+        ],
+        [
+          "Nome",
+          "ReCAP: Organização, Planeamento e Gestão Projetos, Enquadramento Nível 3 | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/home",
+          "Data de início",
+          ""
+        ],
+        [
+          "Tipo de Unidade Formativa (UF)",
+          "UFE",
+          "Data de fim",
+          ""
+        ],
+        [
+          "Competência",
+          "Organização, Planeamento e Gestão Projetos",
+          "Duração (horas)",
+          ""
+        ],
+        [
+          "Duração da UF",
+          "4 horas",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 2,
+      "rows": [
+        [
+          "Nome dos Cursos e Referências |  | Os nomes de cursos, referências sobre o curso e demais ocorrências no curso deverão seguir aos seguintes padrões:",
+          "ReCAP: Organização, Planeamento e Gestão de Projetos – Carreira Grau 3"
+        ],
+        [
+          "Mensagens de Fim de Página |  | Todas as páginas devem ser finalizadas com a seguinte mensagem, sem maiores detalhes:",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Padronização do Menu de Topo |  | O Menu de Topo deverá conter as seguintes páginas: |  | Caso haja Glossário e Saiba Mais, este deverá ficar dentro da página Material de Apoio.",
+          "Curso | Progresso | Datas | Programa | Navegação | Material de Apoio | Referências Bibliográficas | Ficha Técnica"
+        ],
+        [
+          "Rodapé com Logotipos | O rodapé com os logotipos do INA e do PRR, deverão estar na Primeira e na Última Páginas do Curso, conforme configurações abaixo: |  | Atenção para o nome do ficheiro do logotipo",
+          ""
+        ],
+        [
+          "Observações para Vídeos, Imagens e Recursos Interativos |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@801a771444b142abb353ffbfb91fb6bf  |  | Falta Síntese no final do vídeo | O texto deve apresentar uma síntese e não é o caso do exemplo apresentado: |  | Quais práticas? |  | “Em resumo: Quando estas práticas estão presentes, o trabalho torna-se mais organizado, as tarefas decorrem com maior clareza e os cidadãos sentem a diferença na qualidade do serviço prestado.” |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@9a036ec1b2d74d3dacf73624fced22b7 |  | Falta referência da síntese do vídeo, ver padrão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@80228e07946c424d983eb520ba786e06 |  | Falta referência da síntese do vídeo, ver padrão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@d8f833bb1a5748da805772370da97247/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@45058246dd754c7e9ef6c37cd233d6a9 |  | Falta referência da síntese do vídeo, ver padrão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@d8f833bb1a5748da805772370da97247/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@fec9c62072184cebbdd3316aa02cbebe |  | Falta referência da síntese do vídeo, ver padrão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@09ddd0464afb4189acea2a7e524c6ce6/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@b7ba1809774c4a27aeffc7589096820a |  | Falta referência da síntese do vídeo, ver padrão.",
+          "Incluir em todos os vídeos a possibilidade de descarregar as transcrições do vídeo. (configuração NAU: links aparecem abaixo do vídeo) | Incluir sempre uma secção de Resumo / Síntese do vídeo abaixo do vídeo | Para imagens, para TODAS as imagens do curso é necessário colocar textos alternativos (Alt-text) ou descrição da imagem, para possibilitar a leitura por invisuais | Para recursos interativos, de forma semelhante aos vídeos, abaixo do recurso, incluir um link para o texto do recurso na íntegra, facilitando a leitura por invisuais"
+        ],
+        [
+          "Ligações (Links): |  | Todas as ligações apresentadas nas páginas para sites externos devem abrir num novo separador, evitando dificuldade dos formandos na navegação. | Deverá ser apresentada a seguinte mensagem abaixo do texto de referência do documento: |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@2417f42b5101452ab72fc1c380a58fd1 |  | Fazer ajustes necessários: ajuste do texto, a página já está sendo aberta em outra aba. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@2417f42b5101452ab72fc1c380a58fd1 |  | Fazer ajustes necessários: ajuste do texto, a página já está sendo aberta em outra aba. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@7d9a9260fdc243808a6f719d8ef959a1 |  | Fazer ajustes necessários: ajuste do texto, a página já está sendo aberta em outra aba. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@25d89c5d3fd14431928d680a4c308022 |  | Fazer ajustes necessários: ajuste do texto, a página já está sendo aberta em outra aba.",
+          ""
+        ],
+        [
+          "Padrões de Texto, Ortografia e Estilo",
+          ""
+        ],
+        [
+          "Páginas em Secções Iniciais / Finais",
+          ""
+        ],
+        [
+          "Página: SOBRE A COMPETÊNCIA |  | Ajustar todo o texto para a competência específica. Incluir os logotipos nesta e na última página do curso",
+          "Damos-lhes as boas-vindas (Excluir Bem-Vind@ ou outras variações) |  |  Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Página: SOBRE O CURSO",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Páginas: Certificado (Módulo 1) e Emissão Certificado (Módulo 4) |  | Retirar a ligação da palavra PROGRESSO ou atualizar a ligação para a página correta. |  | Sugestão: retirar a ligação das duas páginas, já há indicação que a página está disponível na barra superior.",
+          ""
+        ],
+        [
+          "Página: QUESTIONÁRIO DE SATISFAÇÃO",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Página: PRÓXIMOS CURSOS",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 3,
+      "rows": [
+        [
+          "Imagem do ecrã e/ou identificação da página/secção",
+          "Proposta de melhoria ou ocorrência"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@d8f833bb1a5748da805772370da97247/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@fec9c62072184cebbdd3316aa02cbebe",
+          "Corrigir transcrição: | Substituir a palavra moral por mural. |  | “… ou físicos, como mural, com colunas ….”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@b08f443076154e429477514df480408e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical8",
+          "Objetivo geral mal formulado. |  | Sugestão: |  | Objetivo geral: | Desenvolver a competência de Organização, Planeamento e Gestão de Projetos, capacitando para compreender princípios e metodologias de trabalho, aplicar instrumentos de planeamento alinhados com referenciais estratégicos, analisar etapas, recursos, riscos e indicadores de desempenho, avaliar a execução e os resultados dos projetos com base em evidência, e conceber soluções e decisões tecnicamente fundamentadas que contribuam para a criação de valor público."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@e8ec9d97d26e458fb933ca3f0a366471",
+          "Rever na frase: |  | Seja bem-vind@ ao Módulo 2, onde irá aprofundar a compreensão da competência funcional Organização, Planeamento e Gestão de Projetos (OPGP) no contexto do nível funcional 3. |  | Para: | Boas-vindas… | Nível de Carreira Grau 3… |  |  | Ainda na mesma tela alterar o texto: |  | De: | Mais do que organizar tarefas, a OPGP assume, neste nível funcional, um papel estruturante na articulação entre planeamento estratégico e execução operacional, assegurando coerência, previsibilidade e fundamentação técnica na tomada de decisão. |  | Padronizar: | Nível de Carreira"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@2d928e45a26045b1b924e32e5f706710",
+          "No nível funcional 3, esta competência assume uma dimensão técnica e analítica, implicando a definição de etapas, a identificação de dependências, a antecipação de riscos, a análise de desvios e a produção de informação fundamentada que suporte a tomada de decisão. |  | De: | “Na prática, isto significa que o trabalhador de nível funcional 3: estrutura projetos e procedimentos com base em objetivos claros e critérios bem definidos; define e acompanha os indicadores de desempenho; analisa informação relevante para identificar os riscos e propor os respetivos ajustamentos; produz relatórios e documentação técnica de suporte à decisão e contribui para a melhoria contínua dos processos organizacionais.” |  | Para:  | nível de Carreira Grau 3"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@c1a70c4fe6b74296908887ac4bd51d06",
+          "Ajustar o tamanho das alternativas de respostas para não ficar óbvio que respostas longas são as corretas. |  |  | Na mesma página corrigir a frase: | De: | No nível funcional 3, a competência manifesta-se na capacidade de estruturar metodologicamente o trabalho, gerir dependências críticas e assegurar controlo técnico da execução. |  | Para: | nível de Carreira Grau 3, ….”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical12",
+          "Redundância no texto. Rever. | … iniciativa é iniciada…"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical54",
+          "Ao clicar no botão “baseline”, o texto fica coberto por um quadro transparente e a definição aparece no rodapé da página, sendo visualizada somente se rolar a tela. |  | O mesmo ocorre ao clicar “KPI” ; |  | Lembrar que termos escritos em inglês devem ser formatados em itálico. Ex.: Baseline |  |  | No gráfico: Aplicação da OPGP na AP, falta uma explicação sobre o diagrama e seu funcionamento. Como ler o diagrama?"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical1",
+          "Respostas muito óbvias. Rever."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ee6d90b0c202424abe84794b7f2df906/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@a24fc7defcee4b59925df43fe2680b5f",
+          "Alterar o texto destacado para: |  | “…nível de Carreira Grau 3…”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@77ebd726e9554c1b8f19b9c1d5c07649",
+          "Corrigir o texto destacado no print: |  | “No esquema seguinte, poderá explorá-las e perceber que para trabalhadores de nível de complexidade da Carreira Grau 3,…”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical56",
+          "Recurso inadequado… |  | Sugestão: Acordeão"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@c1d466e4327c4934b537a5ce1296046c",
+          "Recurso não acessível para pessoas com necessidades especiais. |  | No comentário arrumar o marcador i"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@cc7a964d47de451884ca37326f6c2443",
+          "Corrigir/completar texto em destaque: Institucionais |  | Caixa de textos fora do padrão. Falta o indicador de abertura da caixa no lado direito com seta para baixo ou sinal de +. |  | Padronizar este recurso para facilitar a navegação do formando."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@107a6d76fa6045f89df000ddf0d28728  |  |  | Idem: A resposta fica mais evidente quando a alternativa é maior que as demais. | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@4f1d9f300e2140fbb78ceae48b5ccd95  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@aa0facda390342dba780f48c311b57fa  | Idem: resposta óbvia.",
+          "Atenção para a desproporção no tamanho das respostas. É um possível indicativo de resposta correta. | Rever as alternativas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@34fd898585754be49a4f01861a0d7f11",
+          "Melhorar a diagramação do texto. O texto está muito agrupado, dificultando a leitura na tela."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@58c222eb2058405298524162ca1414b0/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@7bb645e4e7d648bf97c3bde22dce0892",
+          "O exemplo apresentado é pertinente e aproxima os conceitos da realidade da Administração Pública. Contudo, poderá beneficiar de uma revisão de estrutura e simplificação, de modo a tornar mais evidente a relação entre cada desafio identificado e a competência que se pretende demonstrar. |  | A última parte da frase abaixo pode ser melhorada para ficar mais correta e fluida: |  | “Trata-se de um projeto transversal, com prazos reduzidos, que requer coordenação de várias áreas funcionais; com dotação orçamental limitada e obrigação de cabimento e visto prévio e cumprimento das regras do Código dos Contratos Públicos. “"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@1a228a7f2bd849b9b1136b34a45ce8fb/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@d97098e8f8a64224b980e7543585d3bb",
+          "Ver configuração padrão para  | Boas Vindas…"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@203d7ff30bf144579ca5f0e418ae251a",
+          "Correção do Bold no texto marcado no print ao lado. |   | “… antecipados.”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@203d7ff30bf144579ca5f0e418ae251a |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@4074722e48384e66a9604c358be460c9 |  | Idem a questão dos marcadores. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@d78d21db27d74b7e9c54e1b5b01f0d02 |  | Idem a questão dos marcadores. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@277ffc112c7b4080a2c50fa08fc3a89d |  | Idem a questão dos marcadores. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@edbc338aa19740ce844b65da1c06f46b |  | Idem a questão dos marcadores. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@2be7406215a041a7bb42a5ea2e2dd1db |  | Idem a questão dos marcadores. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@4d72a98f5326422e8fe035d3f0712cf8 |  | Idem a questão dos marcadores.",
+          "Rever o formato das marcas de parágrafo, parece questão de escolha múltipla e pode confundir o formando."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@cfe98271e0464bfb9d609bb87b31cb17",
+          "Imagem com baixa qualidade, desfocada e com parte ilegível.  | Rever a imagem."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@4f1d9f300e2140fbb78ceae48b5ccd95",
+          "Este quadro está localizado abaixo da avaliação. | Sugiro que o quadro inicie na página seguinte por se tratar de uma continuação do conteúdo."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@ce8082fba4bb46dd8cbaa83fc0c2434b",
+          "Completar o texto com o significado da expressão em português e colocá-la em seguida (“trade-offs”) entre parenteses por ser outro idioma.   | Ou, | Utilizar o recurso de botão na expressão “trade-offs” e abrir uma caixa de explicação."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@aa0facda390342dba780f48c311b57fa",
+          "Reescrever a alternativa correta: |  | “Verificar requisitos obrigatórios (““must have”) e ….”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@7ab59a0dc63e4dbbba3cbbab74d91cb8 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@ce8082fba4bb46dd8cbaa83fc0c2434b |  | Mesmo problema com ficheiro a descarregar. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@281d9f8bd9b7422eadbf0d717d7b4344 |  | Mesmo problema com ficheiro a descarregar.",
+          "O recurso dificulta a leitura pelo formando, por exemplo: quando está no item criticidade, lendo a última parte (Decisão Prática), os primeiros botões ficam fora da visão. O formando pode avançar sem ver os demais conteúdos. |  |  | Na mesma, o ficheiro descarregado está todo como imagens, dificultando a leitura por invisuais. |  | Corrigir também o nome do curso no cabeçalho do ficheiro."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@aa0facda390342dba780f48c311b57fa",
+          "Sugiro que a reflexão deva ir para a próxima página."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@52851acaacdd4e06b1e2dedd8a19ea3b",
+          "Esta página contém muito conteúdo que não é explicado por partes. |  | Primeiro recurso: | Melhorar o recurso, retirando o deslocamento horizontal, dificulta a leitura. A coluna Equipa Executora pode ser diminuída. |  | Não fica claro o relacionamento do último diagrama (imagem ao lado) com o primeiro recurso. | Falta um texto explicativo do diagrama e de como ele se relaciona com o assunto abordado."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@e078cc40323340b38a7702da594ca561",
+          "A conversa poderia começar automaticamente, como os recursos semelhantes utilizados anteriormente.  |  | Sugestão: retirar o botão INICIAR CONVERSA e deixar a conversa entrar quando entramos na página, assim evitamos mais um clique. |  | Retirar também a orientação: Para visualizar a conversa, …."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@e078cc40323340b38a7702da594ca561",
+          "Corrigir a palavra em destaque. Tem um espaçamento indevido."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@5277aa9e104742cab3c6e6986edf643e",
+          "Sugestão: transferir o “caso prático e a atividade avaliativa” para a próxima página.  | Conteúdo extenso."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical13",
+          "Falta o sinal do lado direito dos blocos indicando que a caixa pode ser aberta, seguindo o padrão do recurso em outros momentos. |  | Padronizar o sinal que será utilizado + ou seta para baixo."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@a8e8831cbaae4468b6383f1fe4e96c9e",
+          "Ajustar o recurso para retirar o deslocamento horizontal, ajudando na leitura. |  | Mostrar um Kanban preenchido como exemplo do uso do quadro."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@68ff7129f3f040b7bd02040f0811dee2",
+          "Neste caso, a palavra “apenas” remete a considerar como resposta errada. Acho que poderiam rever estas questões retirando a palavra."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@78a461c83be24355a51451208486ea17",
+          "Subir o quadro de explicação do botão “Smart”. Não é possível visualizar no espaço do ecrã. | Fazer o mesmo com o item seguinte:  |  |  | Também é necessário arrumar a estética do botão “fechar”. | E corrigir o espaço entre palavras no texto abaixo: | (Time-bound)ou) |  |  | Ainda nesta tela, sinalizar que para voltar ao curso, basta fechar a página."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@e0d3babf0d434428afc055f66b979f97",
+          "Acrescentar a vírgula: Focar apenas num, pode comprometer …."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@2e88fe4c5ffb42d5bb1f7c9fb5c0eb09",
+          "Usar o padrão:  termos em inglês devem ser formatados em itálico. Na mesma tela a palavra baseline está com e sem itálico."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@9ca3eef116af47e29985202a8b033689",
+          "A instrução da atividade está fora do padrão. Por exemplo: não está citando a barra colorida que aparece na resposta selecionada."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@18ec8861ec5143f687c17a16d83f5254",
+          "Corrigir formatação do título. Iniciar com letra maiúscula. |  | Na mesma tela verificar o padrão de palavras escritas em inglês: itálico."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@d8f833bb1a5748da805772370da97247/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@f92d9a70cb2e499cba3446860479acc1",
+          "Corrigir o espaço entre as palavras, após a vírgula."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@09ddd0464afb4189acea2a7e524c6ce6/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical14",
+          "Duplicação da informação do uso do teclado. |  | O uso da tecla Tab é confusa, o formando é levado para diversas opções, não é a utilização mais adequada.  |  | O recurso não é acessível a portadores de necessidades especiais. |  | Mesmo quando a resposta está errada, o formando tem o botão avançar disponível. Se o objetivo é uma reflexão, recurso formativo, é importante que o formando só avance quando estiver com a escolha da resposta correta e o feedback correto."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@09ddd0464afb4189acea2a7e524c6ce6/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@vertical14",
+          "Mais uma vez as respostas parecem óbvias e a alternativa correta é maior do que as demais."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@sequential+block@2ee70c4a02984d24b3255556c2a48d20/block-v1:INA+RECAP_OPGP_UFE_NIVEL3+2026+type@vertical+block@26c4a595a4c04ad9a804f2bfe4c6b99d",
+          "Atenção para o CLICAR AQUI, está encaminhando para avaliação do curso geral. |  | Adequar o texto e a página para o padrão encaminhado acima."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 4,
+      "rows": [
+        [
+          "",
+          "SIM",
+          "NÃO",
+          "Observações"
+        ],
+        [
+          "Clareza e correção linguística",
+          "X",
+          "",
+          "A leitura do Módulo 2 apresenta maior complexidade comparativamente ao Módulo 3, evidenciando menor fluidez."
+        ],
+        [
+          "Adequação da linguagem aos públicos-alvo de cada Unidade Formativa, conforme documento “CarreirasPerfisFuncionais”",
+          "X",
+          "",
+          "Falta de exemplos que poderiam facilitar a compreensão dos conceitos e aproximar a realidade da AP."
+        ],
+        [
+          "Adequação das atividades ao público-alvo",
+          "X",
+          "",
+          "Destaca-se um grande uso de termos técnicos que podem dificultar a compreensão dos formandos, em que pese a carreira prevista."
+        ],
+        [
+          "Adequação das imagens ao contexto AP",
+          "X",
+          "",
+          "Falta a descrição das imagens para garantir a acessibilidade do curso"
+        ],
+        [
+          "Configuração das atividades de avaliação formativa e respetivos feedbacks",
+          "X",
+          "",
+          "As alternativas de resposta tornam demasiado evidente a opção correta, reduzindo o nível de desafio e de reflexão associado à atividade."
+        ],
+        [
+          "Configuração das atividades de avaliação sumativa, classificação e certificação",
+          "X",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 5,
+      "rows": [
+        [
+          "",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Observações"
+        ],
+        [
+          "Navegação/orientação na plataforma",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Informação disponível:",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "Há problemas com acessibilidade dos materiais disponíveis, já apontado anteriormente."
+        ],
+        [
+          "Documentação:",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Qualidade dos vídeos com especialistas",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "O áudio de todos os vídeos está baixo e a voz pouco nítida."
+        ],
+        [
+          "Qualidade de outros vídeos (animações, tutoriais…)",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Apreciação global sobre o curso",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "Mesmo considerando o público previsto, o curso está muito complexo e longo, avançando para além das 4 horas previstas. Também há uma carga horária teórica grande e poucos exemplos. Destaca-se ainda a complexidade dos textos e dos exemplos apresentados. Conteúdo muito técnico."
+        ]
+      ]
+    },
+    {
+      "index": 6,
+      "rows": [
+        [
+          "Atenção ao uso de recursos de animação que dificultam a navegação, leitura e acessibilidade do formando. Sugestão incluir links abaixo das animações com textos que fazem parte da mesma, possibilitando descarregar e ler por pessoas com deficiências visuais ou cognitivas. Estes textos nas animações e em outras partes poderão facilitar uma leitura por parte do formando posteriormente.  | Considerando que os conteúdos são extensos, as animações ajudam na leitura, mas devem ser analisadas e ajustadas."
+        ],
+        [
+          "Sugestão: Conferir os textos utilizados como orientações para Certificados (inclusive o link para a página Progresso), Inquérito de caracterização do formando e Página: Navegação."
+        ],
+        [
+          "A avaliação da duração do curso foi condicionada pelo elevado número de ocorrências identificadas, cujo registo e documentação dificultaram a progressão contínua. Assim, não foi possível aferir com rigor o tempo real de execução. A perceção geral é de que o tempo de execução do curso ultrapassa em muito as 4 horas, a depender da profundidade das leituras. Uma possibilidade é disponibilizar alguns dos textos para leitura complementar."
+        ],
+        [
+          ""
+        ]
+      ]
+    }
+  ],
+  "comments": []
+}

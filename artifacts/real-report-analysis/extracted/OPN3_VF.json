@@ -1,0 +1,462 @@
+{
+  "source": "/Users/gabrielrodrigues/Downloads/OPN3_VF.docx",
+  "paragraph_count": 17,
+  "table_count": 6,
+  "comment_count": 0,
+  "paragraphs": [
+    {
+      "index": 1,
+      "style": "Normal",
+      "text": "Cursos MOOC – Registo de Teste Beta"
+    },
+    {
+      "index": 2,
+      "style": "Heading 1",
+      "text": "Identificação do curso"
+    },
+    {
+      "index": 3,
+      "style": "Heading 1",
+      "text": "Identificação de ocorrências e propostas de melhoria"
+    },
+    {
+      "index": 4,
+      "style": "Normal",
+      "text": "Coloque as suas sugestões sequencialmente pela ordem em que aparecem no curso."
+    },
+    {
+      "index": 5,
+      "style": "Normal",
+      "text": "Identifique a página/secção à qual se refere a proposta de melhoria ou ocorrência."
+    },
+    {
+      "index": 6,
+      "style": "Normal",
+      "text": "Introduza sempre print screens para facilitar a correção."
+    },
+    {
+      "index": 7,
+      "style": "Normal",
+      "text": "Para correções de erros ortográficos ou reformulação de texto, copie a versão existente e à frente coloque a versão correta (exemplo: … está a chuver 🡪 está a chover)."
+    },
+    {
+      "index": 8,
+      "style": "Normal",
+      "text": "Veja o exemplo na 1º linha, que depois deve apagar."
+    },
+    {
+      "index": 19,
+      "style": "Heading 1",
+      "text": "Avaliação do curso – alinhamento com o público-alvo e recursos"
+    },
+    {
+      "index": 20,
+      "style": "Normal",
+      "text": "Caso assinale a resposta Não, por favor, justifique no campo Observações, se possível, com captação do(s) ecrã(s) em questão."
+    },
+    {
+      "index": 23,
+      "style": "Heading 1",
+      "text": "Avaliação do curso – experiência do formando"
+    },
+    {
+      "index": 24,
+      "style": "Normal",
+      "text": "Avalie os aspetos apresentados em abaixo, de 1 a 5, correspondendo 1 a Muito Difícil e 5 a Muito Fácil."
+    },
+    {
+      "index": 25,
+      "style": "Normal",
+      "text": "Caso assinale a resposta 1 ou 2, por favor, justifique no campo Observações ou na secção 3, se possível, com captação do(s) ecrã(s) em questão."
+    },
+    {
+      "index": 28,
+      "style": "Heading 1",
+      "text": "Outras Observações"
+    },
+    {
+      "index": 29,
+      "style": "Normal",
+      "text": "Se entender ser útil para este Beta Teste, use este espaço para deixar mais opiniões não previstas no formulário."
+    },
+    {
+      "index": 33,
+      "style": "Normal",
+      "text": "Obrigada por participar neste beta test"
+    },
+    {
+      "index": 34,
+      "style": "Normal",
+      "text": "Os seus contributos são fundamentais para identificar os aspetos que precisam de ser melhorados."
+    }
+  ],
+  "tables": [
+    {
+      "index": 1,
+      "rows": [
+        [
+          "O curso",
+          "",
+          "O teste",
+          ""
+        ],
+        [
+          "Nome",
+          "ReCAP: Orientação para a Participação – Carreira Grau 3 | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/home",
+          "Data de início",
+          ""
+        ],
+        [
+          "Tipo de Unidade Formativa (UF)",
+          "UFE",
+          "Data de fim",
+          ""
+        ],
+        [
+          "Competência",
+          "Orientação para a Participação",
+          "Duração (horas)",
+          ""
+        ],
+        [
+          "Duração da UF",
+          "4 horas",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 2,
+      "rows": [
+        [
+          "Nome dos Cursos e Referências |  | Os nomes de cursos, referências sobre o curso e demais ocorrências no curso deverão seguir aos seguintes padrões:",
+          "ReCAP: Orientação para a Participação – Carreira Grau 3"
+        ],
+        [
+          "Mensagens de Fim de Página |  | Todas as páginas devem ser finalizadas com a seguinte mensagem, sem maiores detalhes:",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Padronização do Menu de Topo |  | O Menu de Topo deverá conter as seguintes páginas: |  | Caso haja Glossário e Saiba Mais, este deverá ficar dentro da página Material de Apoio.",
+          "Curso | Progresso | Datas | Programa | Navegação | Material de Apoio | Referências Bibliográficas | Ficha Técnica"
+        ],
+        [
+          "Rodapé com Logotipos | O rodapé com os logotipos do INA e do PRR, deverão estar na Primeira e na Última Páginas do Curso, conforme configurações abaixo: |  | Atenção para o nome do ficheiro do logotipo",
+          ""
+        ],
+        [
+          "Observações para Vídeos, Imagens e Recursos Interativos |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@34c45a18963b406c83fdbee29eb0725d |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@00c5f53f328847e4bb9706728b974fe0 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@9e3744ada8e4460ebf1ee3b336e0b8d0 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@1899642f9a3b42a0bac57b212bb05b7c |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@22aef53f7e8442ee850f2c956214fc51 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@a6c1dec5a358478a8c4b0941ff6586f4 |  | Neste vídeo não foram colocadas questões para reflexão antes do vídeo. O padrão é colocar. Para avaliar. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@dd318441aef54aa5afa1b439626fada8 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4bbe154f00184e98849d85f79ca94b9f |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@45f0dbf036154413862b3f45f0b10b1c |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@899bf018f2ed4117bfbbc99e2f9ac0ae |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4946d11e648e4103a59b9d3857185658 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b4a74c393dd24efa85f3607900d03aaf |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@78f6fe531c4c4be0a40ee398ed31b4c6 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@5444d22342564990a2aa6bff32d1b653 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@45acbb05ec884367ae38c728f00ee607 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@790caf6d8e2e4379a73db37fe3d6a295 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@db0be068e8ec4e6ababcab014f896709 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@2929eb09ac83408fa355c1dc8075041f |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@391bb5fe45784f0abf8e6cfdf60ef91a |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@040734969d3746e0b3a3ebabeddc7349 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@27b6c0629d214363b4e7bb71ef2e7351 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@01f135b8313d428893d760c6e7b1393a |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@9c88537bba0c4409a7c0242335e7aac4 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c94529db4e874274af36356e8f6238da |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@fd11b363066c4983ac0d9e0bcb619198 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c476b8d1091e463cb87ac1352b7116d4",
+          "Incluir em todos os vídeos a possibilidade de descarregar as transcrições do vídeo. (configuração NAU: links aparecem abaixo do vídeo) | Incluir sempre uma secção de Resumo / Síntese do vídeo abaixo do vídeo | Para imagens, para TODAS as imagens do curso é necessário colocar textos alternativos (Alt-text) ou descrição da imagem, para possibilitar a leitura por invisuais | Para recursos interativos, de forma semelhante aos vídeos, abaixo do recurso, incluir um link para o texto do recurso na íntegra, facilitando a leitura por invisuais"
+        ],
+        [
+          "Ligações (Links): |  | Todas as ligações apresentadas nas páginas para sites externos devem abrir num novo separador, evitando dificuldade dos formandos na navegação. | Deverá ser apresentada a seguinte mensagem abaixo do texto de referência do documento: |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@3cd31f9f6cf34abaadb91aa87078da0c |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@cf561b90cc8f4633bc1c4db4dec8b7c8 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@038287b949f046eb8d5a9ed082e623f3 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@9d803c2108484be4bf34581636e9c5fa",
+          ""
+        ],
+        [
+          "Padrões de Texto, Ortografia e Estilo",
+          ""
+        ],
+        [
+          "Páginas em Secções Iniciais / Finais",
+          ""
+        ],
+        [
+          "Página: SOBRE A COMPETÊNCIA |  | Ajustar todo o texto para a competência específica. Incluir os logotipos nesta e na última página do curso",
+          "Damos-lhes as boas-vindas (Excluir Bem-Vind@ ou outras variações) |  |  Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Página: SOBRE O CURSO",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Páginas: Certificado (Módulo 1) e Emissão Certificado (Módulo 4) |  | Retirar a ligação da palavra PROGRESSO ou atualizar a ligação para a página correta. |  | Sugestão: retirar a ligação das duas páginas, já há indicação que a página está disponível na barra superior.",
+          ""
+        ],
+        [
+          "Página: QUESTIONÁRIO DE SATISFAÇÃO",
+          "Clique em “Seguinte >” para continuar."
+        ],
+        [
+          "Página: PRÓXIMOS CURSOS",
+          ""
+        ]
+      ]
+    },
+    {
+      "index": 3,
+      "rows": [
+        [
+          "Imagem do ecrã e/ou identificação da página/secção",
+          "Proposta de melhoria ou ocorrência"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@b08f443076154e429477514df480408e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@vertical4 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4b3a9b3051f6403d9fcf72cc8b298b34 |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@1a228a7f2bd849b9b1136b34a45ce8fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b22c06fb45e14e88863fbe8b87001289",
+          "Damos-lhes as boas-vindas (Excluir Bem-Vind@ ou outras variações)"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@a977733c33f34109b2cc3e90fa5b18a1 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@f813dbf5c92c486498b7ad85d447efe5/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@8dda89ecfcad472dbc54f61984c66f39 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@f813dbf5c92c486498b7ad85d447efe5/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@78a7373b68864a1bbf94a061720c8dc9",
+          "Trocar marcador para padronizar. |  | Trocar “i” por outro sinal."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@8bbe09ebe5954eef9ebdec7742354a75",
+          "Recurso dificulta a leitura, textos longos na vertical. Sugestão: Acordeão."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@dd318441aef54aa5afa1b439626fada8 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2de0c8d06a18471b868a64d7906e54dc/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@33324ef9b010457eb227a31bcc76f2ff",
+          "O recurso só funciona se clicarmos no título da caixa. Quando a caixa está aberta, não funciona quando clicamos na caixa. Ajustar o texto de orientação ou o recurso.  |  | O recurso fica estranho, quando clicamos em uma das caixas / título, as 3 caixas da linha são abertas, ficando as outras duas vazias, parece não haver texto. Recurso pode dificultar navegabilidade, acessibilidade e usabilidade. |  | Fazer ajustes"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4946d11e648e4103a59b9d3857185658 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@01f135b8313d428893d760c6e7b1393a |  |  |  | Marcador parece questão de escolha múltipla.",
+          "Recurso fora do padrão, caixa horizontal sem marcador a direita com indicador para abrir a caixa: + ou seta para baixo."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@e4b7f634897244e2b04c7d5461f6a24a |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@e4b7f634897244e2b04c7d5461f6a24a |  | Semelhante ao anterior. Rever. | Ajustar o nome do botão Repor Atividade para Reiniciar.",
+          "Recurso não cabe na tela e dificulta a execução. Melhorar a solução ou alterar o recurso utilizado. Não é possível ver a última opção quando as demais já estão preenchidas e não se consegue arrastar a primeira resposta para a última opção. |  | Dificuldade de leitura, acessibilidade e usabilidade. |  | Rever o nome do botão Repor Atividade para Reiniciar. Padronizar os recursos. |  | Nas duas atividades, se deixamos a primeira opção ser a última a ser arrastada, não conseguimos encontrar a última opção. Atividade longa e dificulta a acessibilidade."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c41d8cd28ead4454b7982e115d678fac",
+          "“Repor atividade” |  | Poderia padronizar este recurso em todas as páginas, talvez “Reiniciar atividade”. |  | Ver no curso, há diferentes opções."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@d5daf57a11664dd9ab93c5da10f293e4",
+          "Tamanho da fonte dos itens: |  | Qualidade das decisões | Legitimidade democrática | Etc…"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@1bd66a18114a43419778a1d331444ed9",
+          "Na primeira ocorrência da CPA, colocar o nome por extenso, semelhante a Constituição da República Portuguesa (CRP). |  | Código do Procedimento Administrativo (CPA) |  | Colocar o nome do Código de boas práticas do Conselho da Europa em português e entre parênteses em inglês e o ano. Lembrar que todos os documentos emanados do Conselho Europeu devem ser publicados nas línguas que compõe o conselho."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@497f8f7af98f492687b84ddbb39194de |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@655eff9e5f1f463cbcb81b35d6b5950e |  | Idem quanto ao tamanho da fonte da questão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b94d11c7c0cd4d51ae0677c3ae17f309 |  | Idem quanto ao tamanho da fonte da questão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@aa648609e7d74f1493e40cb2686d3041 |  | Idem quanto ao tamanho da fonte da questão. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@f68f7a140fa34be8ac476fdeee98f9b5 |  | Idem quanto ao tamanho da fonte da questão.",
+          "… e está a PREPARAR a versão final de um regulamento PREPARADO de um modo… |  | Melhorar o texto. |  | Ver tamanho da fonte do enunciado da questão de escolha múltipla. Está muito pequeno e menor que as respostas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@a466550f54bb40468c10eeefb96e34fb/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b9482510da11404f875edf4854a19e01 |  |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b94a10506aed4dbab2049e9642b3ec0c |  | Idem para este recurso.",
+          "O recurso induz a erros na navegabilidade, quando chegamos ao final da 1ª caixa, as opções superiores não são apresentadas, fazendo com que o formando avança para a próxima página. |  | Talvez utilizar duas caixas horizontais com um acordeão. |  | Importante analisar o tamanho dos textos antes da definição dos recursos que serão utilizados. |  | Ver exemplo de ocorrência em outras páginas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@00c5f53f328847e4bb9706728b974fe0 |  |  |  |  |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@df21f3ed1601439d856fd92943ec7cab |  | Caso semelhante na questão 1: seria Valorização dos Contributos ou valorização dos contributos? Considerar que Envolvimento e Interação estão com maiúscula na 1ª letra. Inclusive também está diferente da resposta da questão.",
+          "Nome da competência com 1as letras em maiúsculo; |  | … todos os intervenientes: cidadãos, empresas, organizações e trabalhadores; se envolvam… |  | Nos textos, dar prioridade a Língua Portuguesa e, entre parênteses, apresentar a palavra em inglês: |  | Envolvimento | Implica a capacidade de identificar as partes interessadas (stakeholders) relevantes… |  | Definir um padrão para apresentação dos componentes essenciais. |  | Na transcrição estão todos em letras minúsculas, já na apresentação do “envolvimento”, este é colocado em letra maiúscula “Envolvimento”. O mesmo não ocorre nos demais. |  | Ou coloca-se todos com a primeira letra em maiúsculo para destacar que é um componente ou coloca todos em minúsculo. |  | Sugestão: quando tratar do nome do componente, colocar a primeira letra em maiúsculo, seguindo o padrão do nome da competência. |  | Rever o texto da página e das próximas páginas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@9e3744ada8e4460ebf1ee3b336e0b8d0 |  |  |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@a6c1dec5a358478a8c4b0941ff6586f4 |  |  |  | Idem STAKEHOLDERS",
+          "Se for utilizar o termo em inglês, utilizar itálico. |  | Sugestão: utilizar o termo em Língua Portuguesa, padrão da Administração Pública, e o termo técnico em inglês entre parênteses e itálico. |  | Partes Interessadas (stakeholdres) |  | Considerando que os formandos não são especialistas em marketing, a terminologia técnica deve ser evitada. |  | Quanto ao recurso utilizado, há informação redundante: |  | Título: Clique em avançar e recuar… (sugestão: para conhecer os exemplos apresentados) |  | Rodapé: botões recuar e avançar, botões bolas, mensagem “Avançar” e “Recuar” |  | Sugestão: no título e colocar os botões Recuar e Avançar no centro do rodapé. |  | “A nível europeu”, sugestão: “No contexto europeu, …” | Indicar que ao clicar nos links, para voltar ao curso… ver mensagem de padrão de links externos."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@8bbe09ebe5954eef9ebdec7742354a75",
+          "Recurso dificulta a navegabilidade no texto, o formando precisa subir e descer para poder ter todo o texto. Por se tratar de textos mais longos, sugestão é usar caixas horizontais como Acordeão. |  | Na coluna Instrumentos Internos: |  | Reuniões de análise transversal entre serviços: momentos estruturados de partilha entre equipas ou áreas, onde são analisados problemas recorrentes, identificados padrões e discutidas soluções com base na experiência acumulada dos serviços. |  | O correto seria trocar “onde” por “nos quais”, por se referir a momentos estruturados. Onde deve ser utilizado, na língua formal, em situações de localização física."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@eed2b2aa6b324b1cba2634e1a0e4b89b/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@938f56a13ca84386b611e7c0dcf25784 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@81978bd0899a438f8865349ee10a6939 |  | Idem as observações sobre instruções e botões para reiniciar atividade.",
+          "No recurso, sugiro incluir na frase da 2ª instrução: | Utilize os botões de subir e descer do lado direito de cada linha… |  |  | Na 4ª instrução: | Pode experimentar as vezes que forem necessárias, basta clicar em REINICIAR no final e recomeçar. |  | Trocar o texto do botão final para REINICIAR. |  | Padronizar os recursos semelhantes. |  | Questão importante a ser esclarecida com a especialista: |  | Como IDENTIFICAR INTERVENIENTES sem antes DEFINIR OBJETIVOS E METODOLOGIA? | Creio que faz parte da metodologia a definição dos intervenientes do processo que temos como objetivo, e não o inverso. | Para definir. |  |  |  | Considerando o texto acima, da página Atividade: Participação Inclusiva, a definição do público alvo ou partes interessadas faz parte do desenho metodológico."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@22aef53f7e8442ee850f2c956214fc51 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@a6c1dec5a358478a8c4b0941ff6586f4",
+          "Corrigir o nome da competência: Orientação para a Participação. |  | Na 2ª ocorrência, além do nome da competência, retirar a vírgula antes do “e” ou alterar a frase: |  | Orientação para a participação traduz-se em pequenas ações diárias e essas ações acumuladas fazem toda a diferença. |  | Ou |  | Orientação para a participação traduz-se em pequenas ações diárias, cujos efeitos acumulados fazem toda a diferença."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@0e0c40445382454abdad957b8ffb9788/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4bbe154f00184e98849d85f79ca94b9f",
+          "Em cada uma das opções do recurso, há uma frase em negrito. Não entendi esta marcação. Creio que deva ser retirada em cada uma das caixas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@f813dbf5c92c486498b7ad85d447efe5/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@8dda89ecfcad472dbc54f61984c66f39 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@f813dbf5c92c486498b7ad85d447efe5/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@78a7373b68864a1bbf94a061720c8dc9 |  | Idem quanto as instruções, bem como a posição das respostas.",
+          "Em caso de resposta incorreta, será convidado a refletir antes de tentar novamente, clicando no botão \"Reiniciar\".  |  | A nova tentativa é automática, quando o formando fecha a caixa de comentário do erro. |  | Pode experimentar as vezes que forem necessárias, clicando no botão “Reiniciar”. |  | Creio que este complemento é deste item. |  | Melhorar o espaçamento das respostas. Ver 2ª imagem."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@3cd31f9f6cf34abaadb91aa87078da0c |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@cf561b90cc8f4633bc1c4db4dec8b7c8 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@038287b949f046eb8d5a9ed082e623f3",
+          "O comportamento que se refere ao padrão médio de desempenho exigível aos “trabalhadores de Carreiras de Grau 3”, em que se incluem os Técnicos Superiores, é o comportamento de Nível de Exigência 2 (N2). |  | Corrigir em todos os comportamentos."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@45f0dbf036154413862b3f45f0b10b1c |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@45f0dbf036154413862b3f45f0b10b1c |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@899bf018f2ed4117bfbbc99e2f9ac0ae |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@4946d11e648e4103a59b9d3857185658 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@78f6fe531c4c4be0a40ee398ed31b4c6 |  |  |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@f675a24503844fa2a3d80d718d0fb74b |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@f675a24503844fa2a3d80d718d0fb74b |  |  | Envolvimento no 3 grupo: Existe apoio real da liderança à participação? |  |  |  | O Envolvimento é um investimento de longo prazo… |  |  |  | Refletir sobre o Envolvimento… |  | O Envolvimento exige compromisso…",
+          "Sempre que se referenciar ao comportamento, 1ª letra maiúscula: |  | “Por outro lado, o Envolvimento…” |  | Na imagem, “Participação” deve ser em letra minúscula. | “Diversidade e representatividade: é fundamental garantir que todos são envolvidos e representados no processo de participação.”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@899bf018f2ed4117bfbbc99e2f9ac0ae",
+          "Pontuação: | Comecemos pela base: inclusão e diversidade. |  | Nos termos do Código do Procedimento Administrativo (CPA), a atuação administrativa deve respeitar os princípios da igualdade, da imparcialidade e da proporcionalidade, assegurando…"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b94d11c7c0cd4d51ae0677c3ae17f309",
+          "Retirar espaço no início do feedback."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@78f6fe531c4c4be0a40ee398ed31b4c6",
+          "Melhorar as instruções para este recurso: |  | Veja mais exemplos concretos de Envolvimento, clicando nos botões Seguinte ou Anterior."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@d66cac704cf444028a624c1cf014b46a",
+          "Enunciado: | Após uma reunião… (incluir espaço)"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@81169c0cbad743deafbc8702e665429e/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@f675a24503844fa2a3d80d718d0fb74b",
+          "Sugestão: incluir ao final desta página um link para descarregar todos os textos apresentados, incluindo a reflexão final para leitura posteriro."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@45acbb05ec884367ae38c728f00ee607 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@790caf6d8e2e4379a73db37fe3d6a295 |  |  |  |  |  |  |  | Centralizar os títulos e corrigir Interação. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@e4b7f634897244e2b04c7d5461f6a24a |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@db0be068e8ec4e6ababcab014f896709 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@391bb5fe45784f0abf8e6cfdf60ef91a |  |   |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@040734969d3746e0b3a3ebabeddc7349 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@01f135b8313d428893d760c6e7b1393a |  |  | 2 Interações… |  |  |  |  |  |  |  |  |  |  | Melhorar diagramação e corrigir Interação. |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@76b02b82144645a085163ad4a152e806",
+          "Interação, quando componente: Interação (1ª letra em maiúsculo) |  | Ver também o nome da competência: Orientação para a Participação."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@ce99668aa4024b46b64cca41216cf2b7/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@391bb5fe45784f0abf8e6cfdf60ef91a |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@405dcd2878bb4f36aefbc74fad573821",
+          "O 2º item das instruções é desnecessário, o caso apresenta o problema e o enunciado da questão faz a pergunta. Informação repetida."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@9c88537bba0c4409a7c0242335e7aac4 |  |  |  |   |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@405dcd2878bb4f36aefbc74fad573821",
+          "Valorização dos Contributos | Utilizar 1ª letra em maiúsculo quando tratar do comportamento. |  | Ver também o nome da competência."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c41d8cd28ead4454b7982e115d678fac",
+          "Padronizar recursos com botão final “Reiniciar Atividade”"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@83a896579bcd44039fb66fba56a1e960",
+          "Imagem fora de contexto, não há explicações sobre a imagem, não responde nem complementa a informação acima. |  | Sugestão: retirar a imagem ou fazer um texto explicativo para a imagem. Creio que a imagem está fora de contexto, melhor retirar."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@45b7544f453846b3bdac8b8d760553a4/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c476b8d1091e463cb87ac1352b7116d4 |  |  |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c0691fc6ebc84a1885c654ce1fafab68 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@f4f0d1a3d1474385b13efdb6d788ab03 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2de0c8d06a18471b868a64d7906e54dc/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@b41b563690bc4ce8984bb3bf18ec1ac7 |  |  | Valorização dos Contributos",
+          "Valorização dos Contributos, letras maiúsculas. |  | Idem para nome da competência. |  | Na página “Revisão dos conteúdos abordados”, rever todos os feedbacks de cada uma das questões, os componentes não estão com a 1ª letra maiúscula. Ver feedbacks Correto e Incorreto. Imagens ao lado. Também para as alternativas."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@c0691fc6ebc84a1885c654ce1fafab68",
+          "Rever o texto, talvez seja somente um pular de linha errado, ou rever a primeira frase do texto.  | Frases longas com muitas vírgulas e ponto e vírgula, muitas opções que dificultam a leitura e compreensão."
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2372b44447cf480abb0bbf9efb729706/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@ed8ca99d2b044030bafc366c4abe8ad3 |  |  |  | https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2de0c8d06a18471b868a64d7906e54dc/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@33324ef9b010457eb227a31bcc76f2ff",
+          "Feedback em itálico"
+        ],
+        [
+          "https://lms.nau.edu.pt/learning/course/course-v1:INA+RECAP_OP_UFE_NIVEL3+2026/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@sequential+block@2de0c8d06a18471b868a64d7906e54dc/block-v1:INA+RECAP_OP_UFE_NIVEL3+2026+type@vertical+block@33324ef9b010457eb227a31bcc76f2ff",
+          "Penso que o título de cada coluna deveria ser Componente 1, Componente 2 e Componente 3.  |  | O título já diz que vamos explorar as 3 componentes, depois na imagem apresenta Dimensão 1, 2 e 3."
+        ]
+      ]
+    },
+    {
+      "index": 4,
+      "rows": [
+        [
+          "",
+          "SIM",
+          "NÃO",
+          "Observações"
+        ],
+        [
+          "Clareza e correção linguística",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Adequação da linguagem aos públicos-alvo de cada Unidade Formativa, conforme documento “CarreirasPerfisFuncionais”",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Adequação das atividades ao público-alvo",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Adequação das imagens ao contexto AP",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Configuração das atividades de avaliação formativa e respetivos feedbacks",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Configuração das atividades de avaliação sumativa, classificação e certificação",
+          "X",
+          "",
+          "Avaliação não possuí feedback, o que poderia contribuir para a aprendizagem do formando."
+        ]
+      ]
+    },
+    {
+      "index": 5,
+      "rows": [
+        [
+          "",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Observações"
+        ],
+        [
+          "Navegação/orientação na plataforma",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Informação disponível:",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Documentação:",
+          "X",
+          "",
+          "",
+          "",
+          "",
+          "Não há materiais disponíveis. Foi sugerido acima um ficheiro com o texto apresentado para leitura posterior, pode ser feito em diversas páginas"
+        ],
+        [
+          "Qualidade dos vídeos com especialistas",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          ""
+        ],
+        [
+          "Qualidade de outros vídeos (animações, tutoriais…)",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          "Há problemas de inadequação de recursos que dificultam a leitura, navegação e usabilidade do curso. Quanto à acessibilidade não há recursos específicos para atendimento de formandos com necessidades especiais."
+        ],
+        [
+          "Apreciação global sobre o curso",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "Mesmo considerando o público previsto, o curso está muito longo e repetitivo, avançando para além das 4 horas previstas. Há muita repetição  de ideias, exemplos e sínteses."
+        ]
+      ]
+    },
+    {
+      "index": 6,
+      "rows": [
+        [
+          "Atenção ao uso de recursos de animação que dificultam a navegação, leitura e acessibilidade do formando. Sugestão incluir links abaixo das animações com textos que fazem parte da mesma, possibilitando descarregar e ler por pessoas com deficiências visuais ou cognitivas. Estes textos nas animações e em outras partes poderão facilitar uma leitura por parte do formando posteriormente.  | Considerando que os conteúdos são extensos, as animações ajudam na leitura, mas devem ser analisadas e ajustadas."
+        ],
+        [
+          "Sugestão: Conferir os textos utilizados como orientações para Certificados (inclusive o link para a página Progresso), Inquérito de caracterização do formando e Página: Navegação."
+        ],
+        [
+          "A avaliação da duração do curso foi condicionada pelo elevado número de ocorrências identificadas, há erros que se repetem por todo o curso, cujo registo e documentação dificultaram a progressão contínua. Assim, não foi possível aferir com rigor o tempo real de execução. A perceção geral é de que o tempo de execução do curso ultrapassar em muito as 4 horas, a depender da profundidade das leituras. Uma possibilidade é disponibilizar alguns dos textos para leitura complementar."
+        ]
+      ]
+    }
+  ],
+  "comments": []
+}

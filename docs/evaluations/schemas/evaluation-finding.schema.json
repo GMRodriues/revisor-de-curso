@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EvaluationFinding",
+  "type": "object",
+  "required": [
+    "id",
+    "severity",
+    "category",
+    "location",
+    "observed",
+    "expected",
+    "evidence",
+    "recommendation",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "severity": {
+      "type": "string",
+      "enum": ["blocking", "major", "minor", "manual_review"]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "course_standard",
+        "functional",
+        "navigation",
+        "media",
+        "accessibility",
+        "interactive_resource",
+        "editorial",
+        "formatting",
+        "question",
+        "activity",
+        "link",
+        "document",
+        "target_audience",
+        "content_fit",
+        "tooling",
+        "manual_review"
+      ]
+    },
+    "location": {
+      "type": "object",
+      "required": ["course"],
+      "properties": {
+        "course": { "type": "string" },
+        "track": { "type": "string" },
+        "module": { "type": "string" },
+        "lesson": { "type": "string" },
+        "page": { "type": "string" },
+        "url": { "type": "string" },
+        "screenshotRegion": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "observed": {
+      "type": "string"
+    },
+    "expected": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "recommendation": {
+      "type": "string"
+    },
+    "sourceCheck": {
+      "type": "string"
+    },
+    "requiresHumanReview": {
+      "type": "boolean"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["open", "accepted", "fixed", "false_positive", "blocked", "needs_human_decision"]
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EvaluationRun",
+  "type": "object",
+  "required": [
+    "runId",
+    "course",
+    "scope",
+    "coverage",
+    "findings",
+    "artifacts"
+  ],
+  "properties": {
+    "runId": {
+      "type": "string"
+    },
+    "course": {
+      "type": "object",
+      "required": ["title", "url"],
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "url": { "type": "string" },
+        "platform": { "type": "string" },
+        "expectedDuration": { "type": "string" },
+        "competency": { "type": "string" },
+        "targetAudience": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "mode": { "type": "string" },
+        "tracks": { "type": "array", "items": { "type": "string" } },
+        "modules": { "type": "array", "items": { "type": "string" } },
+        "includeMediaPlayback": { "type": "boolean" },
+        "includeOcr": { "type": "boolean" },
+        "includeEditorialReview": { "type": "boolean" }
+      },
+      "additionalProperties": true
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "expectedPages": { "type": "integer" },
+        "reviewedPages": { "type": "integer" },
+        "blockedPages": { "type": "integer" },
+        "expectedVideos": { "type": "integer" },
+        "reviewedVideos": { "type": "integer" },
+        "expectedActivities": { "type": "integer" },
+        "reviewedActivities": { "type": "integer" }
+      },
+      "additionalProperties": true
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "$ref": "./evaluation-finding.schema.json"
+      }
+    },
+    "globalAssessment": {
+      "type": "object",
+      "properties": {
+        "linguisticClarity": { "type": "string", "enum": ["yes", "no", "not_evaluated"] },
+        "targetAudienceFit": { "type": "string", "enum": ["yes", "no", "not_evaluated"] },
+        "activityFit": { "type": "string", "enum": ["yes", "no", "not_evaluated"] },
+        "imageFit": { "type": "string", "enum": ["yes", "no", "not_evaluated"] },
+        "formativeActivitiesConfig": { "type": "string", "enum": ["yes", "no", "not_evaluated"] },
+        "summativeActivitiesConfig": { "type": "string", "enum": ["yes", "no", "not_evaluated"] }
+      },
+      "additionalProperties": true
+    },
+    "learnerExperience": {
+      "type": "object",
+      "properties": {
+        "navigation": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "availableInformation": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "documentation": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "expertVideos": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "otherVideos": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "overall": { "type": "integer", "minimum": 1, "maximum": 5 }
+      },
+      "additionalProperties": true
+    },
+    "artifacts": {
+      "type": "object",
+      "properties": {
+        "inventory": { "type": "string" },
+        "evidenceDir": { "type": "string" },
+        "report": { "type": "string" }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,4 +1,4 @@
-# Execution Loop Contract
+# Contrato De Loop De Execucao
 
 ## Proposito
 
@@ -19,13 +19,13 @@ Cada run deve criar checklist com:
 - curso alvo
 - modo de execucao
 - escopo de paginas
-- criterios de review
+- criterios de revisao
 - estrategia de evidencia
 - estrategia de captura unica por pagina, quando aplicavel
 - itens de navegacao
 - itens de midia
 - itens de relatorio
-- `Final Audit`
+- `Auditoria Final`
 
 ## Loop Por Item
 
@@ -36,9 +36,9 @@ Para cada item:
 3. Capturar evidencia.
 4. Aplicar contrato objetivo.
 5. Registrar resultado.
-6. Marcar item como concluido, bloqueado ou manual review.
+6. Marcar item como concluido, bloqueado ou revisao humana.
 
-Para revisoes INA/NAU, a unidade primaria do loop deve ser o `page packet`: a pagina so pode ser marcada como visitada depois de capturados os dados definidos em `single-pass-capture-contract.md` ou depois de registrada uma lacuna explicita.
+Para revisoes INA/NAU, a unidade primaria do loop deve ser o `pacote de pagina`: a pagina so pode ser marcada como visitada depois de capturados os dados definidos em `single-pass-capture-contract.md` ou depois de registrada uma lacuna explicita.
 
 ## Estados
 
@@ -50,7 +50,7 @@ Para revisoes INA/NAU, a unidade primaria do loop deve ser o `page packet`: a pa
 - `manual_review`
 - `skipped_with_reason`
 
-## Final Audit
+## Auditoria Final
 
 Antes de entregar o resultado:
 

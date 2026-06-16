@@ -1,40 +1,41 @@
-# Course Review Report
+# Relatorio De Teste Beta De Curso
 
-## Summary
+## Resumo
 
-- Course:
-- Scope:
-- Reviewed at:
-- Reviewer:
-- Status:
-- Coverage:
+- Curso:
+- Escopo:
+- Revisado em:
+- Revisor:
+- Estado:
+- Cobertura:
 
-## Launch Readiness
+## Prontidao Para Lancamento
 
-- Blocking findings:
-- Major findings:
-- Minor findings:
-- Manual review items:
+- Achados bloqueantes:
+- Achados relevantes:
+- Achados menores:
+- Itens de revisao humana:
 
-## Findings
+## Achados
 
-| ID | Severity | Category | Location | Observed | Evidence | Status |
+| ID | Severidade | Categoria | Localizacao | Observado | Evidencia | Estado |
 | --- | --- | --- | --- | --- | --- | --- |
-| CR-001 | blocking | load | Module / Lesson / Page |  |  | open |
+| CR-001 | blocking | load | Modulo / Aula / Pagina |  |  | open |
 
-## Coverage
+Observacao: valores como `blocking`, `load` e `open` sao enums tecnicos e ficam em ingles por compatibilidade.
 
-| Module | Lesson | Pages expected | Pages reviewed | Status |
+## Cobertura
+
+| Modulo | Aula | Paginas esperadas | Paginas revisadas | Estado |
 | --- | --- | ---: | ---: | --- |
 |  |  |  |  |  |
 
-## Manual Review
+## Revisao Humana
 
-| Location | Question | Evidence | Owner |
+| Localizacao | Pergunta | Evidencia | Responsavel |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
-## Notes
+## Notas
 
 -
-

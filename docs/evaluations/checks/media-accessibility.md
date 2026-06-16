@@ -1,4 +1,4 @@
-# Checks: Media And Accessibility
+# Verificacoes: Midia E Acessibilidade
 
 ## Objetivo
 
@@ -6,15 +6,15 @@ Verificar se videos, imagens, recursos interativos e ficheiros podem ser consumi
 
 ## Videos
 
-Checks funcionais:
+Verificacoes funcionais:
 
 - player aparece;
 - video inicia quando testado em fase de midia;
-- duracao/metadata disponivel;
+- duracao/metadados disponivel;
 - audio audivel em amostra;
 - controles basicos aparecem.
 
-Checks de padrao:
+Verificacoes de padrao:
 
 - existe link para descarregar transcricao;
 - existe resumo/sintese abaixo do video;
@@ -29,7 +29,7 @@ Achados recorrentes:
 
 ## Imagens
 
-Checks:
+Verificacoes:
 
 - imagem carrega;
 - imagem nao esta quebrada;
@@ -47,7 +47,7 @@ Achados recorrentes:
 
 ## Recursos Interativos
 
-Checks:
+Verificacoes:
 
 - recurso aparece;
 - recurso abre/fecha de forma previsivel;
@@ -70,7 +70,7 @@ Achados recorrentes:
 
 ## Ficheiros E Anexos
 
-Checks:
+Verificacoes:
 
 - ficheiro esta disponivel;
 - link funciona;

@@ -10,6 +10,7 @@
     "observed",
     "expected",
     "evidence",
+    "contextScreenshot",
     "recommendation",
     "status"
   ],
@@ -65,6 +66,14 @@
     "evidence": {
       "type": "array",
       "items": { "type": "string" }
+    },
+    "contextScreenshot": {
+      "type": "string",
+      "description": "Screenshot contextual obrigatorio do achado, mostrando a area ao redor do erro em tamanho suficiente para revisao humana."
+    },
+    "focusedScreenshot": {
+      "type": "string",
+      "description": "Screenshot focado opcional para detalhes pequenos; nao substitui contextScreenshot."
     },
     "recommendation": {
       "type": "string"

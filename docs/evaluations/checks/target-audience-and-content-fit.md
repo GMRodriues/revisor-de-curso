@@ -1,4 +1,4 @@
-# Checks: Target Audience And Content Fit
+# Verificacoes: Publico-Alvo E Adequacao De Conteudo
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Avaliar se linguagem, exemplos, atividades e complexidade estao alinhados ao pub
 
 ## Publico-Alvo
 
-Checks:
+Verificacoes:
 
 - exemplos correspondem ao publico-alvo;
 - linguagem e adequada ao nivel funcional/carreira;
@@ -23,7 +23,7 @@ Problemas recorrentes:
 
 ## Carga Horaria E Densidade
 
-Checks:
+Verificacoes:
 
 - volume de conteudo parece compativel com carga horaria;
 - paginas nao concentram conteudo demais;
@@ -32,7 +32,7 @@ Checks:
 
 ## Objetivos E Competencias
 
-Checks:
+Verificacoes:
 
 - objetivo geral esta bem formulado;
 - competencia especifica esta correta;
@@ -42,7 +42,7 @@ Checks:
 
 ## Classificacao
 
-Muitos destes checks exigem julgamento humano.
+Muitas destas verificacoes exigem julgamento humano.
 
 Usar:
 

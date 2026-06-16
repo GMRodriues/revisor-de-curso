@@ -1,4 +1,4 @@
-# Course Evaluation V2
+# Avaliacao De Curso V2
 
 Esta pasta contem a primeira versao dos arquivos de avaliacao baseados em relatorios reais.
 
@@ -23,7 +23,7 @@ Extracoes locais:
 - `real-report-patterns.md`: padroes encontrados nos 4 relatorios.
 - `evaluation-workflow-v2.md`: fluxo proposto para o avaliador de cursos.
 - `report-output-v2.md`: formato esperado para o relatorio final.
-- `checks/`: familias de criterios que o avaliador deve aplicar.
+- `checks/`: familias de criterios que o avaliador deve aplicar. O nome da pasta permanece em ingles por compatibilidade.
 - `schemas/evaluation-finding.schema.json`: formato inicial de um achado.
 - `schemas/evaluation-run.schema.json`: formato inicial de uma execucao.
 - `schemas/page-packet.schema.json`: formato de captura unica por pagina.
@@ -38,9 +38,9 @@ Cada avaliacao deve separar:
 4. Revisao editorial, visual, acessibilidade, midia e atividades.
 5. Relatorio final com localizacao, evidencia, criterio violado e recomendacao.
 
-## Status
+## Estado
 
-Draft inicial. Deve ser refinado com:
+Rascunho inicial. Deve ser refinado com:
 
 - exemplos de relatorios adicionais;
 - conversa com quem executa a revisao hoje;

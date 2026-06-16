@@ -1,4 +1,4 @@
-# Mode: Report Remediation
+# Modo: Remediacao De Relatorio
 
 ## Objetivo
 
@@ -20,7 +20,7 @@ Transformar relatorios e exemplos de revisao humana em plano de correcao ou refi
 - [ ] Propor ajustes na rubrica
 - [ ] Priorizar correcoes de conteudo/plataforma
 - [ ] Gerar plano de acao
-- [ ] Final Audit
+- [ ] Auditoria Final
 
 ## Saida
 
@@ -28,4 +28,3 @@ Transformar relatorios e exemplos de revisao humana em plano de correcao ou refi
 - ajustes sugeridos na rubrica
 - itens que devem virar automacao
 - itens que devem permanecer humanos
-

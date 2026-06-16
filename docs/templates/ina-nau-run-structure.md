@@ -1,4 +1,4 @@
-# INA/NAU Run Structure
+# INA/NAU Estrutura De Execucao
 
 Use esta estrutura para cada execucao de curso INA/NAU.
 
@@ -13,6 +13,10 @@ artifacts/
     findings/
       evaluation-findings.json
       finding-index.md
+      <finding-id>/
+        context.png
+        focused.png
+        source.json
     pages/
       <page-id>/
         page.json
@@ -38,7 +42,7 @@ artifacts/
       internal-audit.md
 ```
 
-## Run ID
+## ID Da Execucao
 
 Formato recomendado:
 
@@ -99,7 +103,7 @@ Cobertura efetiva:
 - downloads esperados/capturados;
 - lacunas aceitas ou pendentes.
 
-## Page Packets
+## Pacotes De Pagina
 
 Cada pasta em `pages/<page-id>/` representa uma pagina ou unidade navegavel.
 
@@ -115,20 +119,32 @@ modulo-03-atividade-reflexao
 
 Quando houver identificador da plataforma, registrar em `platformUnitId`, mas nao depender dele como unico nome humano.
 
-## Downloads
+## Achados
+
+Cada achado listado em `findings/evaluation-findings.json` deve ter uma pasta propria em `findings/<finding-id>/`.
+
+Arquivos esperados:
+
+- `context.png`: obrigatorio. Screenshot contextual com a area ao redor do erro.
+- `focused.png`: opcional. Recorte mais proximo quando o detalhe precisa de ampliacao.
+- `source.json`: metadados do achado, pagina de origem, URL, `pacote de pagina`, criterio violado e arquivos de evidencia.
+
+O screenshot contextual deve mostrar mais do que o trecho exato do erro. Incluir o bloco completo, titulo, controles proximos ou parte da navegacao quando isso ajudar uma pessoa a entender e corrigir a ocorrencia.
+
+## Documentos Baixados
 
 Salvar documentos baixados quando isso for permitido e necessario para revisar acessibilidade, transcricoes, materiais de apoio ou ficheiros anexos.
 
 Cada download deve ter:
 
-- `source.json`: URL, pagina de origem, tipo, status, hash quando disponivel;
+- `source.json`: URL, pagina de origem, tipo, estado, hash quando disponivel;
 - arquivo original;
 - `extracted-text.txt`, quando for possivel extrair texto;
 - `notes.md` com lacunas e observacoes.
 
 Nao salvar documentos com dados pessoais, credenciais ou informacao sensivel.
 
-## Reports
+## Relatorios
 
 ### `ina-betatest-report.md`
 
@@ -151,4 +167,3 @@ Auditoria interna:
 ## Regra De Uso
 
 O agente deve preencher a estrutura conforme navega. Nao deixar para reconstruir evidencias no final a partir de memoria da sessao.
-

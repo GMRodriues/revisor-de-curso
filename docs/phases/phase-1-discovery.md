@@ -1,8 +1,8 @@
-# Phase 1: Discovery
+# Fase 1: Descoberta
 
 ## Objetivo
 
-Descobrir a estrutura navegavel do curso antes do review completo.
+Descobrir a estrutura navegavel do curso antes do revisao completa.
 
 ## Ordem Recomendada
 
@@ -19,7 +19,7 @@ Descobrir a estrutura navegavel do curso antes do review completo.
 - paginas inacessiveis
 - riscos de cobertura
 
-## Guardrails
+## Protecoes
 
 - Nao depender de clique cego se houver mapa estruturado.
 - Nao inferir que uma pagina existe sem conseguir navegar ou encontra-la no manifest.

@@ -1,4 +1,4 @@
-# Checks: Questions And Activities
+# Verificacoes: Questoes E Atividades
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Avaliar configuracao, clareza e qualidade minima de questoes e atividades.
 
 ## Configuracao
 
-Checks:
+Verificacoes:
 
 - quantidade de tentativas segue padrao;
 - feedback aparece quando esperado;
@@ -25,7 +25,7 @@ Problemas recorrentes:
 
 ## Enunciado
 
-Checks:
+Verificacoes:
 
 - enunciado claro;
 - instrucao corresponde ao que aparece na tela;
@@ -35,7 +35,7 @@ Checks:
 
 ## Alternativas
 
-Checks:
+Verificacoes:
 
 - alternativas tem tamanho semelhante ou justificativa para diferenca;
 - alternativa correta nao fica obvia por ser mais longa;
@@ -49,7 +49,7 @@ Indicador recorrente:
 
 ## Feedback
 
-Checks:
+Verificacoes:
 
 - existe feedback quando esperado;
 - feedback correto/incorreto tem estilo consistente;

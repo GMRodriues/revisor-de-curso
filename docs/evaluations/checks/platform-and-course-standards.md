@@ -1,10 +1,10 @@
-# Checks: Platform And Course Standards
+# Verificacoes: Padroes Da Plataforma E Do Curso
 
 ## Objetivo
 
 Verificar padroes globais que aparecem repetidamente nos relatorios reais.
 
-## Checks
+## Verificacoes
 
 ### Nome Do Curso
 

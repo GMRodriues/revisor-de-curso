@@ -1,9 +1,9 @@
 ---
-name: course-review-wizard
+name: curso-beta-test
 description: Automatiza revisao de cursos online em plataforma web, com descoberta de estrutura, navegacao por paginas, coleta de evidencia, aplicacao de rubrica e geracao de relatorio.
 ---
 
-# Course Review Wizard
+# Curso Beta Test
 
 ## Objetivo
 
@@ -23,21 +23,24 @@ Ler antes de executar qualquer modo:
 
 Para pedidos INA/NAU, ler tambem:
 
-1. `docs/products/ina-nau-mooc/objective-and-plan.md`
-2. `docs/products/ina-nau-mooc/requirements-and-checklist.md`
-3. `docs/templates/ina-nau-run-structure.md`
-4. `docs/templates/page-packet.template.json`
-5. `docs/templates/ina-betatest-report-template.md`
+1. `docs/glossario-operacional.md`
+2. `docs/products/ina-nau-mooc/objective-and-plan.md`
+3. `docs/products/ina-nau-mooc/requirements-and-checklist.md`
+4. `docs/templates/ina-nau-run-structure.md`
+5. `docs/templates/page-packet.template.json`
+6. `docs/templates/ina-betatest-report-template.md`
 
-## Router
+## Roteador
 
 1. Classificar o pedido em exatamente um modo.
 2. Ler apenas o modo selecionado.
 3. Criar checklist antes de operar navegador.
 4. Executar um item por vez.
-5. Fazer `Final Audit`.
+5. Fazer `Auditoria Final`.
 
 ## Modos
+
+Os identificadores dos modos e nomes de arquivos continuam em ingles por compatibilidade com artefatos e automacoes futuras. O nome operacional em portugues aparece na primeira linha de cada arquivo de modo.
 
 1. `ina-nau-course-review`
    - Arquivo: `modes/mode-ina-nau-course-review.md`
@@ -60,7 +63,7 @@ Para pedidos INA/NAU, ler tambem:
    - Arquivo: `modes/mode-report-remediation.md`
    - Use quando ja existe relatorio e o trabalho e revisar, consolidar ou preparar plano de correcao.
 
-## Tie-Breakers
+## Criterios De Desempate
 
 - Se ha URL de curso NAU/INA, curso MOOC INA, modelo Betatest ou caderno de encargos INA, use `ina-nau-course-review`.
 - Se nao ha manifest, comece por `discovery`.
@@ -74,10 +77,10 @@ Retornar:
 
 1. escopo revisado
 2. cobertura
-3. status sugerido
+3. estado sugerido
 4. achados por severidade
 5. evidencias principais
 6. itens para revisao humana
 7. proximas acoes
 
-Para `ina-nau-course-review`, a saida principal deve ser o relatorio Betatest INA. JSON, DOM snapshots, screenshots e logs sao anexos internos de rastreabilidade.
+Para `ina-nau-course-review`, a saida principal deve ser o relatorio Betatest INA. JSON, snapshots de DOM, capturas de tela e registros de log sao anexos internos de rastreabilidade.

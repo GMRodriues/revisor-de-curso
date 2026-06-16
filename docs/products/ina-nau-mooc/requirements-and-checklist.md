@@ -1,4 +1,4 @@
-# INA/NAU MOOC Review - Requisitos E Checklist
+# INA/NAU MOOC - Requisitos E Checklist
 
 ## Escopo Contratual
 
@@ -119,7 +119,9 @@ Cada ocorrencia que entrar no relatorio deve ter:
 
 - localizacao exata;
 - URL ou identificacao da pagina/secao;
-- screenshot ou log;
+- screenshot contextual obrigatorio, mostrando a area ao redor do erro;
+- screenshot focado opcional, quando o detalhe precisar de ampliacao;
+- log, quando o erro for tecnico;
 - comportamento observado;
 - criterio violado;
 - recomendacao objetiva;
@@ -155,7 +157,7 @@ Um curso so pode seguir para curadoria humana quando:
 3. Todos os videos foram pelo menos verificados quanto a player, transcricao e sintese.
 4. Todos os recursos interativos foram abertos ou marcados como bloqueados.
 5. Todas as avaliacoes/atividades foram inspecionadas.
-6. Downloads e links externos foram testados quando possivel.
+6. Documentos baixados e links externos foram testados quando possivel.
 7. Todas as ocorrencias no relatorio possuem evidencia.
 8. Itens que dependem de criterio humano estao marcados como `manual_review`.
 9. O relatorio esta no formato Betatest e nao somente em formato tecnico interno.

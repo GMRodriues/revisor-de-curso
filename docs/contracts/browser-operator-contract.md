@@ -1,4 +1,4 @@
-# Browser Operator Contract
+# Contrato Do Operador De Navegador
 
 ## Proposito
 
@@ -6,14 +6,14 @@ Definir como o projeto deve operar a plataforma web de cursos sem misturar naveg
 
 ## Superficies Permitidas
 
-O runner pode usar uma destas superficies, conforme disponibilidade:
+O executor pode usar uma destas superficies, conforme disponibilidade:
 
 - navegador local com perfil logado
-- browser automation por Playwright
-- plugin/browser control da sessao atual
+- automacao de navegador por Playwright
+- plugin/controle de navegador da sessao atual
 - API ou manifest da plataforma, quando existir
 
-Preferir dados estruturados da plataforma quando existirem. Usar clique por setas como fallback, nao como primeira opcao.
+Preferir dados estruturados da plataforma quando existirem. Usar clique por setas como alternativa, nao como primeira opcao.
 
 ## Regras De Navegacao
 
@@ -23,7 +23,7 @@ Preferir dados estruturados da plataforma quando existirem. Usar clique por seta
 4. Nao rodar dois comandos concorrentes na mesma pagina/sessao.
 5. Detectar loops, paginas duplicadas e indices inconsistentes.
 6. Parar com blocker quando a plataforma exigir acao destrutiva, pagamento ou dado sensivel.
-7. Em revisoes INA/NAU, tratar a primeira passagem por pagina como captura principal: coletar page packet completo antes de avancar.
+7. Em revisoes INA/NAU, tratar a primeira passagem por pagina como captura principal: coletar pacote de pagina completo antes de avancar.
 
 ## Coleta Por Pagina
 
@@ -31,10 +31,10 @@ Capturar:
 
 - URL ou rota atual
 - titulo/indice visivel
-- screenshot
+- captura de tela
 - texto visivel do DOM
-- console errors
-- network failures relevantes
+- erros de console
+- falhas de rede relevantes
 - estado de imagens
 - estado de videos ou players
 - tempo ate estabilidade quando possivel
@@ -42,14 +42,14 @@ Capturar:
 - recursos interativos detectados
 - dados de atividades e avaliacoes visiveis sem submissao destrutiva
 
-## Wait/Stability
+## Espera E Estabilidade
 
-Uma pagina so esta pronta para review quando:
+Uma pagina so esta pronta para revisao quando:
 
 - navegacao terminou
 - loaders principais sumiram ou estabilizaram
 - imagens essenciais terminaram de carregar ou falharam explicitamente
-- videos tiveram metadata carregada quando presentes
+- videos tiveram metadados carregados quando presentes
 - nao houve mudanca visual relevante durante uma janela curta de estabilidade
 
 Se a pagina fica instavel, registrar `blocked` ou `manual_review` em vez de adivinhar.
@@ -59,15 +59,15 @@ Se a pagina fica instavel, registrar `blocked` ou `manual_review` em vez de adiv
 ### Imagem
 
 - verificar `naturalWidth` e `naturalHeight`
-- verificar falha de request
-- capturar screenshot quando imagem parece quebrada, cortada ou fora do layout
+- verificar falha de requisicao
+- capturar tela quando imagem parece quebrada, cortada ou fora do layout
 
 ### Video
 
 - verificar player
-- verificar metadata/duracao
-- testar inicio de playback quando permitido
-- registrar se autoplay, bloqueio de browser ou permissao impede teste
+- verificar metadados/duracao
+- testar inicio de reproducao quando permitido
+- registrar se autoplay, bloqueio de navegador ou permissao impede teste
 
 ## Seguranca
 
@@ -100,4 +100,6 @@ O operador deve retornar fatos, nao julgamento final:
 - `interactions`
 - `rawObservations`
 
-O julgamento final pertence ao Review Engine e a rubrica.
+Os nomes dos campos acima permanecem em ingles por serem contrato tecnico de saida do operador.
+
+O julgamento final pertence ao Motor De Revisao e a rubrica.

@@ -1,4 +1,4 @@
-# Checks: Links And Documents
+# Verificacoes: Links E Documentos
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Verificar links externos, documentos, mensagens de orientacao e disponibilidade 
 
 ## Links Externos
 
-Checks:
+Verificacoes:
 
 - link abre;
 - link externo abre em novo separador quando aplicavel;
@@ -22,7 +22,7 @@ Achados recorrentes:
 
 ## Documentos
 
-Checks:
+Verificacoes:
 
 - ficheiro existe;
 - download funciona;
@@ -33,7 +33,7 @@ Checks:
 
 ## Material De Apoio
 
-Checks:
+Verificacoes:
 
 - materiais estao disponiveis quando mencionados;
 - textos de recursos extensos podem ser descarregados;

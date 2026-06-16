@@ -1,4 +1,4 @@
-# Evaluation Workflow V2
+# Fluxo De Avaliacao V2
 
 ## Objetivo
 
@@ -15,9 +15,9 @@ Revisar cursos de uma unica plataforma, com foco em funcionamento, padroes de cu
 
 ## Fases Propostas
 
-As fases abaixo sao conceituais. Na execucao INA/NAU, as fases 2 a 8 devem aproveitar uma unica passagem rica pelo curso sempre que possivel. Durante essa passagem, cada pagina gera um `page packet` com texto, screenshot, DOM sanitizado, midia, links, recursos, documentos, atividades e logs. As avaliacoes posteriores devem rodar sobre esses artefatos antes de decidir reabrir a plataforma.
+As fases abaixo sao conceituais. Na execucao INA/NAU, as fases 2 a 8 devem aproveitar uma unica passagem rica pelo curso sempre que possivel. Durante essa passagem, cada pagina gera um `pacote de pagina` com texto, screenshot, DOM sanitizado, midia, links, recursos, documentos, atividades e logs. As avaliacoes posteriores devem rodar sobre esses artefatos antes de decidir reabrir a plataforma.
 
-### 1. Intake E Login
+### 1. Entrada E Login
 
 Objetivo: abrir a plataforma e identificar o curso.
 
@@ -51,13 +51,13 @@ Saida:
 
 - `course-inventory.json`
 - mapa de cobertura.
-- page packets iniciais por pagina, quando a descoberta ja passar pelas paginas.
+- pacotes de pagina iniciais por pagina, quando a descoberta ja passar pelas paginas.
 
 ### 3. Funcionamento Basico
 
 Objetivo: verificar se o curso esta navegavel e consumivel.
 
-Checks:
+Verificacoes:
 
 - pagina abre;
 - navegacao anterior/proxima funciona;
@@ -90,7 +90,7 @@ Esta extracao deve acontecer preferencialmente na passagem principal por pagina,
 
 Objetivo: verificar se o curso respeita padroes globais definidos.
 
-Checks:
+Verificacoes:
 
 - nomenclatura oficial;
 - mensagem final de pagina;
@@ -105,7 +105,7 @@ Checks:
 
 Objetivo: detectar problemas de texto, formato e legibilidade.
 
-Checks:
+Verificacoes:
 
 - ortografia;
 - pontuacao;
@@ -123,7 +123,7 @@ Checks:
 
 Objetivo: validar condicoes de consumo por diferentes formandos.
 
-Checks:
+Verificacoes:
 
 - video toca;
 - audio e audivel;
@@ -139,7 +139,7 @@ Checks:
 
 Objetivo: revisar configuracao e qualidade minima das atividades.
 
-Checks:
+Verificacoes:
 
 - enunciado claro;
 - alternativas plausiveis;
@@ -164,7 +164,7 @@ Cada achado deve conter:
 - esperado;
 - evidencia;
 - recomendacao;
-- status;
+- estado;
 - se precisa revisao humana.
 
 ## Saidas Do Avaliador
@@ -176,3 +176,5 @@ Cada achado deve conter:
 - `evaluation-report.md`
 - screenshots/logs/evidencias por pagina
 - resumo executivo por curso
+
+Observacao: nomes de arquivos e campos JSON permanecem em ingles por compatibilidade tecnica.

@@ -1,14 +1,14 @@
-# Revisor de Curso Agent Instructions
+# Curso Beta Test Agent Instructions
 
 Estas instrucoes valem dentro deste projeto. Este projeto e independente do Gravity e nao deve depender de arquivos, runtime, schemas ou convencoes privadas do monorepo MindCloud, exceto quando um humano pedir explicitamente para importar uma ideia como referencia.
 
 ## Principios
 
-- Evidencia antes de conclusao: todo achado precisa ter URL, pagina/slide, screenshot ou log associado.
+- Evidencia antes de conclusao: todo achado precisa ter URL, pagina/slide, screenshot contextual obrigatorio e, quando aplicavel, screenshot focado ou log associado.
 - Contratos objetivos antes de julgamento subjetivo: separar falhas mecanicas de opinioes editoriais.
 - Navegacao deterministica: preferir manifest/API/DOM estruturado a clicar setas cegamente.
 - Menor escopo verificavel: validar primeiro um curso pequeno antes de rodar lote.
-- Review humano no loop: calibrar falsos positivos e falsos negativos com exemplos reais.
+- Revisao humana no loop: calibrar falsos positivos e falsos negativos com exemplos reais.
 - Nao gravar credenciais, cookies, tokens ou dados pessoais em docs permanentes.
 
 ## Execucao Padrao
@@ -20,7 +20,7 @@ Estas instrucoes valem dentro deste projeto. Este projeto e independente do Grav
 5. Gerar relatorio com severidade, reproducao e evidencia.
 6. Encerrar com resumo claro de pronto, bloqueado e precisa de revisao humana.
 
-## Qualidade Do Review
+## Qualidade Da Revisao
 
 Classificar cada achado como:
 
@@ -35,6 +35,7 @@ Todo achado deve indicar:
 - comportamento esperado
 - comportamento observado
 - evidencia
+- screenshot contextual mostrando a area ao redor do erro
 - severidade
 - recomendacao
 
@@ -44,4 +45,3 @@ Todo achado deve indicar:
 - Nao alterar conteudo do curso sem pedido explicito.
 - Nao assumir que uma pagina esta correta so porque nao houve erro tecnico.
 - Nao marcar curso como pronto sem cobrir todas as paginas exigidas pelo manifest ou sem registrar lacunas.
-

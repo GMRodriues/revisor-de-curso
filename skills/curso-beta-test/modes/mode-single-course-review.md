@@ -1,4 +1,4 @@
-# Mode: Single Course Review
+# Modo: Revisao De Curso Unico
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Para escopos INA/NAU, preferir `ina-nau-course-review`. Quando este modo for usa
 - [ ] Validar manifest
 - [ ] Preparar navegador/perfil
 - [ ] Revisar paginas em ordem
-- [ ] Capturar page packet por pagina
-- [ ] Aplicar checks de carregamento
-- [ ] Aplicar checks de navegacao
-- [ ] Aplicar checks de layout
-- [ ] Aplicar checks de imagem
-- [ ] Aplicar checks de video quando existir
-- [ ] Registrar itens de manual review
+- [ ] Capturar pacote de pagina por pagina
+- [ ] Aplicar verificacoes de carregamento
+- [ ] Aplicar verificacoes de navegacao
+- [ ] Aplicar verificacoes de layout
+- [ ] Aplicar verificacoes de imagem
+- [ ] Aplicar verificacoes de video quando existir
+- [ ] Registrar itens de revisao humana
 - [ ] Gerar relatorio
-- [ ] Final Audit
+- [ ] Auditoria Final
 
 ## Saida
 
@@ -36,5 +36,5 @@ Para escopos INA/NAU, preferir `ina-nau-course-review`. Quando este modo for usa
 - cobertura
 - achados
 - evidencias
-- page packets
-- status sugerido
+- pacotes de pagina
+- estado sugerido

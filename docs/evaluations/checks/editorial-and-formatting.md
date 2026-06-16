@@ -1,4 +1,4 @@
-# Checks: Editorial And Formatting
+# Verificacoes: Editorial E Formatacao
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Revisar texto, estilo, formatacao e legibilidade com base nos padroes recorrente
 
 ## Ortografia E Pontuacao
 
-Checks:
+Verificacoes:
 
 - erros ortograficos;
 - acentuacao;
@@ -26,7 +26,7 @@ Exemplos de padroes encontrados:
 
 ## Maiusculas, Minusculas E Nomes Oficiais
 
-Checks:
+Verificacoes:
 
 - nome da competencia consistente;
 - nome de componentes/comportamentos com maiuscula quando for termo oficial;
@@ -41,7 +41,7 @@ Exemplos:
 
 ## Termos Em Ingles
 
-Checks:
+Verificacoes:
 
 - termo em ingles tem traducao ou explicacao;
 - termo em ingles aparece em italico quando esse for o padrao;
@@ -57,7 +57,7 @@ Exemplos:
 
 ## Legibilidade
 
-Checks:
+Verificacoes:
 
 - texto nao esta excessivamente agrupado;
 - pagina nao tem conteudo demais;
@@ -75,7 +75,7 @@ Achados recorrentes:
 
 ## Formatacao Visual
 
-Checks:
+Verificacoes:
 
 - tamanho de fonte consistente;
 - bold/italico aplicado corretamente;

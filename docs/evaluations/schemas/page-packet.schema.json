@@ -184,7 +184,22 @@
     },
     "findings": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": {
+        "oneOf": [
+          { "type": "string" },
+          {
+            "type": "object",
+            "required": ["id", "contextScreenshot"],
+            "properties": {
+              "id": { "type": "string" },
+              "contextScreenshot": { "type": "string" },
+              "focusedScreenshot": { "type": "string" },
+              "notes": { "type": "string" }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
     },
     "captureGaps": {
       "type": "array",

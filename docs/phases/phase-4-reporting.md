@@ -1,4 +1,4 @@
-# Phase 4: Reporting
+# Fase 4: Relatorio
 
 ## Objetivo
 
@@ -9,7 +9,7 @@ Transformar evidencia coletada em um relatorio acionavel.
 - curso
 - escopo revisado
 - cobertura
-- status sugerido
+- estado sugerido
 - bloqueios
 - principais riscos
 - itens manuais pendentes
@@ -27,9 +27,9 @@ Cada achado deve conter:
 - evidencia
 - reproducao
 - recomendacao
-- status
+- estado
 
-## Status Do Curso
+## Estado Do Curso
 
 - `ready_candidate`
 - `ready_with_minor_notes`

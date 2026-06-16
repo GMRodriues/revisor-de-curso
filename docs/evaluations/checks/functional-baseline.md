@@ -1,4 +1,4 @@
-# Checks: Functional Baseline
+# Verificacoes: Funcionamento Basico
 
 ## Objetivo
 
@@ -15,7 +15,7 @@ Aplicar por:
 - aula/pagina;
 - recurso dentro da pagina.
 
-## Checks Por Pagina
+## Verificacoes Por Pagina
 
 - URL abre.
 - Titulo ou identificador da pagina aparece.
@@ -26,7 +26,7 @@ Aplicar por:
 - Sidebar/menu/lista de aulas aparece quando esperado.
 - Pagina nao redireciona para local errado.
 
-## Checks Por Tipo De Conteudo
+## Verificacoes Por Tipo De Conteudo
 
 ### Texto
 
@@ -72,9 +72,9 @@ Aplicar por:
 
 ## Saida
 
-Cada pagina recebe um status:
+Cada pagina recebe um estado:
 
-- `passed`: funcional nos checks basicos.
+- `passed`: funcional nas verificacoes basicas.
 - `failed`: falha mecanica verificavel.
 - `blocked`: nao foi possivel acessar/testar.
 - `manual_review`: carregou, mas precisa julgamento humano.
@@ -84,6 +84,6 @@ Cada pagina recebe um status:
 - URL.
 - Screenshot.
 - DOM/texto visivel quando disponivel.
-- Logs relevantes.
+- Registros de log relevantes.
 - Tipo de conteudo esperado.
 - Tipo de conteudo observado.

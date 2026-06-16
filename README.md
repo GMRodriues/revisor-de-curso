@@ -1,14 +1,14 @@
-# Revisor de Curso
+# Curso Beta Test
 
-Projeto para automatizar revisao de cursos online em uma plataforma web.
+Projeto para automatizar beta testing e revisao de cursos online em uma plataforma web.
 
-O objetivo inicial e criar um fluxo estilo Wizard: navegar cursos, aulas e paginas; coletar evidencia; aplicar contratos objetivos de qualidade; e gerar relatorios que ajudem uma revisora humana a decidir se o material esta pronto para lancamento.
+O objetivo inicial e criar um fluxo de Curso Beta Test: navegar cursos, aulas e paginas; coletar evidencia; aplicar contratos objetivos de qualidade; e gerar relatorios que ajudem uma revisora humana a decidir se o material esta pronto para lancamento.
 
 ## Objetivos
 
 - Automatizar revisao mecanica de carregamento, navegacao, formatacao e midia.
 - Preservar evidencia verificavel: screenshots, logs, URLs e passos de reproducao.
-- Separar criterios de review da operacao do navegador.
+- Separar criterios de revisao da operacao do navegador.
 - Permitir calibracao com exemplos reais de revisao humana.
 - Rodar em lote sem perder rastreabilidade por curso, modulo, aula e pagina.
 
@@ -22,11 +22,12 @@ O objetivo inicial e criar um fluxo estilo Wizard: navegar cursos, aulas e pagin
 ## Estrutura
 
 - `AGENTS.md`: instrucoes locais para agentes trabalhando neste projeto.
-- `docs/articles/course-review-wizard-architecture.md`: artigo de arquitetura e abordagem.
+- `docs/articles/curso-beta-test-architecture.md`: artigo de arquitetura e abordagem.
 - `docs/contracts/`: contratos de execucao, evidencia, navegador e rubrica.
+- `docs/glossario-operacional.md`: vocabulario em portugues e excecoes tecnicas mantidas em ingles.
 - `docs/phases/`: fases do fluxo de revisao.
 - `docs/templates/`: modelos de manifest e relatorio.
-- `skills/course-review-wizard/`: skill roteadora e modos de execucao.
+- `skills/curso-beta-test/`: skill roteadora e modos de execucao.
 - `artifacts/`: destino futuro para saidas de runs, screenshots e relatorios.
 - `scripts/`: reservado para runners de navegador e utilitarios.
 

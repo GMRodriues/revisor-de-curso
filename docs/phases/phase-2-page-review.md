@@ -1,10 +1,10 @@
-# Phase 2: Page Review
+# Fase 2: Revisao De Pagina
 
 ## Objetivo
 
-Revisar cada pagina/slide do curso com checks objetivos.
+Revisar cada pagina/slide do curso com verificacoes objetivas.
 
-## Checks Base
+## Verificacoes Base
 
 - pagina carregou
 - URL/indice corresponde ao manifest
@@ -26,5 +26,4 @@ Revisar cada pagina/slide do curso com checks objetivos.
 
 ## Observacao
 
-Checks visuais devem ser calibrados com exemplos reais. No inicio, preferir detectar problemas obvios e registrar `manual_review` para julgamentos subjetivos.
-
+Verificacoes visuais devem ser calibradas com exemplos reais. No inicio, preferir detectar problemas obvios e registrar `manual_review` para julgamentos subjetivos.

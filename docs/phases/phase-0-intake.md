@@ -1,4 +1,4 @@
-# Phase 0: Intake
+# Fase 0: Entrada
 
 ## Objetivo
 
@@ -12,7 +12,7 @@ Coletar informacoes minimas para uma revisao automatizada segura.
 - exemplos de revisao humana esperada
 - criterios obrigatorios de lancamento
 - viewports alvo
-- limite de profundidade do review
+- limite de profundidade da revisao
 
 ## Saidas
 
@@ -31,4 +31,3 @@ Coletar informacoes minimas para uma revisao automatizada segura.
 - [ ] Definir criterios obrigatorios
 - [ ] Definir formato de relatorio
 - [ ] Confirmar o que fica fora do escopo
-

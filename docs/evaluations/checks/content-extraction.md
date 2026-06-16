@@ -1,4 +1,4 @@
-# Checks: Content Extraction
+# Verificacoes: Extracao De Conteudo
 
 ## Objetivo
 
@@ -35,7 +35,7 @@ Sem extracao confiavel, o avaliador deve registrar lacuna em vez de concluir que
 - resumo/sintese disponivel;
 - questoes/reflexoes antes do video;
 - legenda, se existir;
-- amostra de audio/playback na fase de midia.
+- amostra de audio/reproducao na fase de midia.
 
 ### Recursos Interativos
 

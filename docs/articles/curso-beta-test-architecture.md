@@ -1,23 +1,23 @@
-# Course Review Wizard Architecture
+# Arquitetura Do Curso Beta Test
 
-## Context
+## Contexto
 
 O projeto automatiza revisao de cursos online em uma plataforma web. A plataforma apresenta conteudo em paginas ou slides navegados por setas, podendo incluir texto, imagem, texto dentro de imagem, video e outros componentes.
 
 O objetivo nao e substituir a revisao humana. O objetivo e reduzir trabalho repetitivo, encontrar falhas mecanicas com evidencia e apontar onde revisao humana ainda e necessaria.
 
-## Design Central
+## Desenho Central
 
 Separar duas responsabilidades:
 
 1. Operacao da plataforma: login, navegacao, clique, captura de tela, leitura de DOM, coleta de logs, teste de midia.
-2. Criterios de review: regras que dizem se algo carregou corretamente, se texto esta visivel, se midia funciona, se ha overflow, se a pagina esta pronta ou precisa de revisao humana.
+2. Criterios de revisao: regras que dizem se algo carregou corretamente, se texto esta visivel, se midia funciona, se ha transbordamento visual, se a pagina esta pronta ou precisa de revisao humana.
 
-Essa separacao permite trocar o operador de navegador sem reescrever a rubrica, e ajustar a rubrica sem mexer no runner.
+Essa separacao permite trocar o operador de navegador sem reescrever a rubrica, e ajustar a rubrica sem mexer no executor.
 
 ## Camadas
 
-### Course Manifest
+### Manifest Do Curso
 
 Representa o mapa esperado:
 
@@ -29,9 +29,9 @@ Representa o mapa esperado:
 - tipo de conteudo esperado
 - criterios especificos
 
-O manifest pode vir de API, DOM, planilha, export manual ou descoberta automatica.
+O manifest pode vir de API, DOM, planilha, exportacao manual ou descoberta automatica.
 
-### Browser Runner
+### Executor De Navegador
 
 Responsavel por executar a plataforma:
 
@@ -39,12 +39,12 @@ Responsavel por executar a plataforma:
 - navegar paginas
 - aguardar estabilidade
 - capturar screenshot
-- coletar console/network errors
+- coletar erros de console/rede
 - extrair texto visivel
 - inspecionar imagens e videos
 - registrar passos de reproducao
 
-### Review Engine
+### Motor De Revisao
 
 Aplica contratos:
 
@@ -57,7 +57,7 @@ Aplica contratos:
 - conteudo essencial presente
 - layout sem sobreposicao obvia
 
-### Report Builder
+### Gerador De Relatorio
 
 Gera saidas:
 
@@ -73,7 +73,7 @@ Gera saidas:
 2. Criar ou descobrir manifest.
 3. Rodar revisao automatizada em desktop.
 4. Capturar screenshots e logs por pagina.
-5. Gerar relatorio markdown.
+5. Gerar relatorio Markdown.
 6. Comparar com revisao manual.
 7. Ajustar contratos antes de rodar em lote.
 
@@ -89,4 +89,3 @@ Gera saidas:
 ## Decisao Inicial
 
 Comecar com contratos e evidencia. Codigo de automacao deve vir depois que a rubrica e o formato de relatorio estiverem claros o suficiente para validar um curso pequeno.
-

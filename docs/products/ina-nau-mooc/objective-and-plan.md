@@ -1,4 +1,4 @@
-# INA/NAU MOOC Review - Objetivo E Plano
+# INA/NAU MOOC - Objetivo E Plano
 
 ## Objetivo Final
 
@@ -85,9 +85,9 @@ Saida:
 - mapa de cobertura
 - lista de itens nao descobertos ou ambiguos
 
-Na pratica, inventario e captura devem acontecer juntos sempre que o agente ja estiver navegando pagina a pagina. A primeira passagem pelo curso deve produzir `page packets`, para evitar que as fases seguintes precisem abrir novamente a mesma pagina.
+Na pratica, inventario e captura devem acontecer juntos sempre que o agente ja estiver navegando pagina a pagina. A primeira passagem pelo curso deve produzir `pacotes de pagina`, para evitar que as fases seguintes precisem abrir novamente a mesma pagina.
 
-### 3. Review Automatizado Por Pagina
+### 3. Revisao Automatizada Por Pagina
 
 Cada pagina deve gerar evidencia minima:
 
@@ -97,18 +97,18 @@ Cada pagina deve gerar evidencia minima:
 - screenshot;
 - texto extraido do DOM;
 - erros de console/network relevantes, quando disponiveis;
-- status de imagens;
-- status de videos;
-- status de links/downloads;
+- estado de imagens;
+- estado de videos;
+- estado de links/downloads;
 - observacoes cruas do operador.
 
 O agente nao deve concluir que uma pagina esta correta so porque carregou. Ele deve aplicar os criterios do checklist ativo.
 
 As fases de analise devem usar primeiro esses pacotes salvos. Reabrir a pagina deve ser reservado para lacuna de captura, interacao nao testada, reteste apos correcao ou pedido humano especifico.
 
-### 4. Review Por Familias De Criterios
+### 4. Revisao Por Familias De Criterios
 
-O review deve aplicar, no minimo:
+A revisao deve aplicar, no minimo:
 
 - funcionamento e navegacao;
 - sequenciacao e precedencias;
@@ -155,7 +155,7 @@ Essa calibracao e obrigatoria nos primeiros cursos e deve ser repetida sempre qu
 
 ### Depois Do Primeiro Curso Calibrado
 
-- Criar runner dedicado para NAU/Open edX, preferindo estrutura DOM/API a clique por setas.
+- Criar executor dedicado para NAU/Open edX, preferindo estrutura DOM/API a clique por setas.
 - Implementar extratores especificos para sequentials/verticals, videos, transcricoes, assets e avaliacoes.
 - Implementar gerador DOCX usando o modelo INA.
 - Adicionar validacao automatica de que todos os achados do relatorio possuem evidencia.
@@ -164,18 +164,18 @@ Essa calibracao e obrigatoria nos primeiros cursos e deve ser repetida sempre qu
 
 - Definir politica de reteste apos correcoes.
 - Criar fila de cursos e estado por curso.
-- Criar dashboard ou indice consolidado por status.
+- Criar dashboard ou indice consolidado por estado.
 - Medir tempo medio por curso de 1 hora e 4 horas.
 - Congelar criterios aceitos para reduzir variacao entre runs.
 
-## Status Do Projeto Para Esta Meta
+## Estado Do Projeto Para Esta Meta
 
 O projeto ja tem boa base:
 
 - contratos de evidencia;
 - contratos de execucao;
 - rubrica de severidade;
-- fases de discovery, page review, media review, reporting e calibration;
+- fases de descoberta, revisao de pagina, revisao de midia, relatorio e calibracao;
 - docs `evaluations` com criterios semelhantes aos relatorios reais.
 
 O principal gap e que a skill ainda trata o fluxo como generico e, nos docs anteriores, estava mais acoplada ao ReCAP do que deveria. Para a meta atual, ela deve priorizar um pipeline INA/NAU com relatorio Betatest como output principal.

@@ -1,4 +1,4 @@
-# Report Output V2
+# Saida De Relatorio V2
 
 ## Objetivo
 
@@ -30,7 +30,7 @@ Deve responder:
 
 Tabela:
 
-| Unidade | Esperado | Avaliado | Status | Observacoes |
+| Unidade | Esperado | Avaliado | Estado | Observacoes |
 | --- | ---: | ---: | --- | --- |
 
 ### 4. Achados

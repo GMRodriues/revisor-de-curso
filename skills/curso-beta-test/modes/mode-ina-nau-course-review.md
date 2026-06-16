@@ -1,4 +1,4 @@
-# Mode: INA/NAU Course Review
+# Modo: Teste Beta De Curso INA/NAU
 
 ## Objetivo
 
@@ -30,11 +30,12 @@ Ler antes de operar navegador:
 3. `docs/contracts/single-pass-capture-contract.md`
 4. `docs/contracts/browser-operator-contract.md`
 5. `docs/contracts/review-rubric-contract.md`
-6. `docs/products/ina-nau-mooc/objective-and-plan.md`
-7. `docs/products/ina-nau-mooc/requirements-and-checklist.md`
-8. `docs/templates/ina-nau-run-structure.md`
-9. `docs/templates/page-packet.template.json`
-10. `docs/templates/ina-betatest-report-template.md`
+6. `docs/glossario-operacional.md`
+7. `docs/products/ina-nau-mooc/objective-and-plan.md`
+8. `docs/products/ina-nau-mooc/requirements-and-checklist.md`
+9. `docs/templates/ina-nau-run-structure.md`
+10. `docs/templates/page-packet.template.json`
+11. `docs/templates/ina-betatest-report-template.md`
 
 ## Estrategia
 
@@ -52,7 +53,7 @@ O agente deve evitar navegar o curso varias vezes para tarefas que poderiam ser 
 
 - [ ] Resolver contexto INA/NAU e escopo do curso
 - [ ] Confirmar acesso/login sem persistir credenciais
-- [ ] Criar run directory
+- [ ] Criar diretorio de execucao
 - [ ] Criar checklist ativo Betatest
 - [ ] Inventariar estrutura do curso
 - [ ] Capturar cada pagina com pacote completo
@@ -60,18 +61,19 @@ O agente deve evitar navegar o curso varias vezes para tarefas que poderiam ser 
 - [ ] Capturar links, downloads, transcricoes e documentos
 - [ ] Capturar atividades, avaliacoes, tentativas e feedbacks sem acao destrutiva
 - [ ] Registrar lacunas de captura e itens `manual_review`
-- [ ] Rodar checks offline sobre page packets
+- [ ] Rodar verificacoes offline sobre pacotes de pagina
 - [ ] Classificar ocorrencias em critica/relevante/melhoria/manual_review
+- [ ] Capturar screenshot contextual para cada ocorrencia
 - [ ] Preencher relatorio Betatest
 - [ ] Validar que cada ocorrencia tem evidencia
 - [ ] Listar paginas/itens nao cobertos
-- [ ] Final Audit
+- [ ] Auditoria Final
 
-## Page Packet Obrigatorio
+## Pacote De Pagina Obrigatorio
 
 Para cada pagina, salvar um pacote em `artifacts/<run-id>/pages/<page-id>/` com:
 
-- `page.json`: metadados, localizacao, URL, timestamps, viewport, status e checks basicos.
+- `page.json`: metadados, localizacao, URL, timestamps, viewport, estado e verificacoes basicas.
 - `visible-text.txt`: texto visivel extraido.
 - `dom-snapshot.html` ou `dom-snapshot.txt`: snapshot sanitizado do conteudo revisavel.
 - `fullpage.png`: screenshot de pagina inteira, quando possivel.
@@ -87,18 +89,32 @@ O arquivo `page.json` deve seguir `docs/evaluations/schemas/page-packet.schema.j
 
 Quando existirem recursos interativos, capturar tambem screenshots e texto dos estados abertos, se isso nao alterar progresso, resposta de aluno, nota ou dado sensivel.
 
+## Evidencia Por Ocorrencia
+
+Cada ocorrencia/achado incluido no relatorio deve ter evidencia visual contextual:
+
+- salvar screenshot contextual em `artifacts/<run-id>/findings/<finding-id>/context.png`;
+- quando necessario, salvar tambem screenshot focado em `artifacts/<run-id>/findings/<finding-id>/focused.png`;
+- o screenshot contextual deve mostrar a area ao redor do erro, nao apenas o recorte minimo do texto/icone;
+- para erro textual, incluir contexto suficiente para ler a frase e reconhecer a pagina/bloco;
+- para erro de layout, incluir o bloco inteiro e elementos vizinhos suficientes para perceber corte, sobreposicao ou alinhamento;
+- para erro tecnico sem manifestacao visual, manter o log, mas ainda capturar a tela contextual quando houver pagina associada.
+
+Se o erro for identificado por analise offline de texto, DOM, transcricao ou documento, reabrir a pagina apenas para capturar `context.png` antes de entregar o relatorio.
+
 ## Saidas
 
 - `course-intake.json`
 - `course-inventory.json`
-- `pages/<page-id>/` com page packets
+- `pages/<page-id>/` com pacotes de pagina
 - `evaluation-findings.json`
+- `findings/<finding-id>/context.png` para cada achado
 - `ina-betatest-report.md`
 - opcional: DOCX preenchido a partir do modelo INA
 - `coverage.json`
 - lista de retestes ou revisoes humanas necessarias
 
-## Guardrails
+## Protecoes
 
 - Nao corrigir conteudo diretamente na plataforma.
 - Nao submeter avaliacao, tentativa ou resposta que possa alterar progresso real sem autorizacao explicita.

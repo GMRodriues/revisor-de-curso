@@ -83,6 +83,13 @@
     "notes": "notes.md"
   },
   "checks": [],
-  "findings": [],
+  "findings": [
+    {
+      "id": "",
+      "contextScreenshot": "../../findings/<finding-id>/context.png",
+      "focusedScreenshot": "../../findings/<finding-id>/focused.png",
+      "notes": "contextScreenshot e obrigatorio para achados incluidos em relatorio; focusedScreenshot e opcional."
+    }
+  ],
   "captureGaps": []
 }

@@ -21,6 +21,7 @@ Cada run deve criar checklist com:
 - escopo de paginas
 - criterios de review
 - estrategia de evidencia
+- estrategia de captura unica por pagina, quando aplicavel
 - itens de navegacao
 - itens de midia
 - itens de relatorio
@@ -36,6 +37,8 @@ Para cada item:
 4. Aplicar contrato objetivo.
 5. Registrar resultado.
 6. Marcar item como concluido, bloqueado ou manual review.
+
+Para revisoes INA/NAU, a unidade primaria do loop deve ser o `page packet`: a pagina so pode ser marcada como visitada depois de capturados os dados definidos em `single-pass-capture-contract.md` ou depois de registrada uma lacuna explicita.
 
 ## Estados
 
@@ -55,5 +58,5 @@ Antes de entregar o resultado:
 2. Confirmar que cada achado tem evidencia.
 3. Confirmar que paginas nao visitadas estao explicitamente listadas.
 4. Separar falhas tecnicas de revisoes humanas.
-5. Gerar resumo final.
-
+5. Confirmar que fases posteriores reutilizaram artefatos capturados antes de reabrir paginas.
+6. Gerar resumo final.

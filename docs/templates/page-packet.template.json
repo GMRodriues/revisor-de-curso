@@ -1,0 +1,88 @@
+{
+  "packetVersion": "1.0",
+  "runId": "",
+  "pageId": "",
+  "location": {
+    "course": "",
+    "courseId": "",
+    "module": "",
+    "moduleId": "",
+    "lesson": "",
+    "lessonId": "",
+    "section": "",
+    "page": "",
+    "pageIndex": 0,
+    "platformUnitId": ""
+  },
+  "url": "",
+  "canonicalUrl": "",
+  "capturedAt": "",
+  "viewport": {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1
+  },
+  "navigation": {
+    "method": "manifest_or_dom",
+    "previousUrl": "",
+    "nextUrl": "",
+    "previousControlDetected": false,
+    "nextControlDetected": false,
+    "sequenceStatus": "ok"
+  },
+  "status": {
+    "visited": false,
+    "loaded": false,
+    "stable": false,
+    "captureCompleteness": "partial",
+    "blockedReason": "",
+    "manualReviewReason": "",
+    "loadMs": 0
+  },
+  "content": {
+    "visibleTitle": "",
+    "expectedContentTypes": [],
+    "detectedContentTypes": [],
+    "visibleTextChars": 0,
+    "language": "pt"
+  },
+  "mediaSummary": {
+    "images": 0,
+    "brokenImages": 0,
+    "videos": 0,
+    "videosWithTranscript": 0,
+    "videosWithSummary": 0,
+    "iframes": 0
+  },
+  "linkSummary": {
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "downloads": 0,
+    "brokenLinks": 0,
+    "externalLinksMissingNewTabWarning": 0
+  },
+  "activitySummary": {
+    "activities": 0,
+    "questions": 0,
+    "feedbackVisibleWithoutSubmit": false,
+    "submissionRequiredForFeedback": false,
+    "destructiveInteractionSkipped": false
+  },
+  "artifacts": {
+    "pageJson": "page.json",
+    "visibleText": "visible-text.txt",
+    "domSnapshot": "dom-snapshot.html",
+    "fullpageScreenshot": "fullpage.png",
+    "viewportScreenshot": "viewport.png",
+    "media": "media.json",
+    "links": "links.json",
+    "interactions": "interactions.json",
+    "console": "console.json",
+    "network": "network.json",
+    "notes": "notes.md"
+  },
+  "checks": [],
+  "findings": [],
+  "captureGaps": []
+}

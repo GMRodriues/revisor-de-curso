@@ -23,6 +23,7 @@ Preferir dados estruturados da plataforma quando existirem. Usar clique por seta
 4. Nao rodar dois comandos concorrentes na mesma pagina/sessao.
 5. Detectar loops, paginas duplicadas e indices inconsistentes.
 6. Parar com blocker quando a plataforma exigir acao destrutiva, pagamento ou dado sensivel.
+7. Em revisoes INA/NAU, tratar a primeira passagem por pagina como captura principal: coletar page packet completo antes de avancar.
 
 ## Coleta Por Pagina
 
@@ -37,6 +38,9 @@ Capturar:
 - estado de imagens
 - estado de videos ou players
 - tempo ate estabilidade quando possivel
+- links e downloads detectados
+- recursos interativos detectados
+- dados de atividades e avaliacoes visiveis sem submissao destrutiva
 
 ## Wait/Stability
 
@@ -89,7 +93,11 @@ O operador deve retornar fatos, nao julgamento final:
 - `consoleErrors`
 - `networkFailures`
 - `screenshots`
+- `pagePacketPath`
+- `visibleTextPath`
+- `domSnapshotPath`
+- `links`
+- `interactions`
 - `rawObservations`
 
 O julgamento final pertence ao Review Engine e a rubrica.
-

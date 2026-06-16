@@ -15,6 +15,8 @@ Revisar cursos de uma unica plataforma, com foco em funcionamento, padroes de cu
 
 ## Fases Propostas
 
+As fases abaixo sao conceituais. Na execucao INA/NAU, as fases 2 a 8 devem aproveitar uma unica passagem rica pelo curso sempre que possivel. Durante essa passagem, cada pagina gera um `page packet` com texto, screenshot, DOM sanitizado, midia, links, recursos, documentos, atividades e logs. As avaliacoes posteriores devem rodar sobre esses artefatos antes de decidir reabrir a plataforma.
+
 ### 1. Intake E Login
 
 Objetivo: abrir a plataforma e identificar o curso.
@@ -49,6 +51,7 @@ Saida:
 
 - `course-inventory.json`
 - mapa de cobertura.
+- page packets iniciais por pagina, quando a descoberta ja passar pelas paginas.
 
 ### 3. Funcionamento Basico
 
@@ -80,6 +83,8 @@ Extrair:
 - enunciados, alternativas e feedbacks de questoes;
 - textos de recursos interativos;
 - texto de ficheiros/anexos quando possivel.
+
+Esta extracao deve acontecer preferencialmente na passagem principal por pagina, nao como navegacao separada.
 
 ### 5. Avaliacao De Padroes Do Curso
 
@@ -165,6 +170,7 @@ Cada achado deve conter:
 ## Saidas Do Avaliador
 
 - `course-inventory.json`
+- `pages/<page-id>/page.json`
 - `extracted-content/`
 - `evaluation-findings.json`
 - `evaluation-report.md`

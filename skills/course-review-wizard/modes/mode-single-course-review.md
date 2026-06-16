@@ -4,6 +4,8 @@
 
 Revisar um curso, modulo ou aula com escopo fechado.
 
+Para escopos INA/NAU, preferir `ina-nau-course-review`. Quando este modo for usado, ainda assim aplicar captura unica por pagina quando a revisao exigir navegar pagina a pagina.
+
 ## Entradas
 
 - manifest ou plano de descoberta
@@ -18,7 +20,7 @@ Revisar um curso, modulo ou aula com escopo fechado.
 - [ ] Validar manifest
 - [ ] Preparar navegador/perfil
 - [ ] Revisar paginas em ordem
-- [ ] Capturar evidencia por pagina
+- [ ] Capturar page packet por pagina
 - [ ] Aplicar checks de carregamento
 - [ ] Aplicar checks de navegacao
 - [ ] Aplicar checks de layout
@@ -34,5 +36,5 @@ Revisar um curso, modulo ou aula com escopo fechado.
 - cobertura
 - achados
 - evidencias
+- page packets
 - status sugerido
-

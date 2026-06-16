@@ -26,6 +26,7 @@ Extracoes locais:
 - `checks/`: familias de criterios que o avaliador deve aplicar.
 - `schemas/evaluation-finding.schema.json`: formato inicial de um achado.
 - `schemas/evaluation-run.schema.json`: formato inicial de uma execucao.
+- `schemas/page-packet.schema.json`: formato de captura unica por pagina.
 
 ## Principio De Uso
 

@@ -9,14 +9,25 @@ description: Automatiza revisao de cursos online em plataforma web, com descober
 
 Roteador principal para revisao automatizada de cursos. Escolhe um modo, aplica contratos de execucao/evidencia/rubrica, e produz saidas auditaveis.
 
+Para a frente atual INA/NAU, o objetivo operacional e transformar uma URL de curso NAU em um relatorio Betatest INA quase pronto para curadoria humana. A navegacao principal deve seguir estrategia de captura unica por pagina: ao passar por uma pagina, coletar evidencias visuais, texto, DOM, midia, links, documentos e dados revisaveis suficientes para as fases seguintes trabalharem offline sempre que possivel.
+
 ## Contratos Obrigatorios
 
 Ler antes de executar qualquer modo:
 
 1. `docs/contracts/execution-loop-contract.md`
 2. `docs/contracts/evidence-contract.md`
-3. `docs/contracts/browser-operator-contract.md`
-4. `docs/contracts/review-rubric-contract.md`
+3. `docs/contracts/single-pass-capture-contract.md`
+4. `docs/contracts/browser-operator-contract.md`
+5. `docs/contracts/review-rubric-contract.md`
+
+Para pedidos INA/NAU, ler tambem:
+
+1. `docs/products/ina-nau-mooc/objective-and-plan.md`
+2. `docs/products/ina-nau-mooc/requirements-and-checklist.md`
+3. `docs/templates/ina-nau-run-structure.md`
+4. `docs/templates/page-packet.template.json`
+5. `docs/templates/ina-betatest-report-template.md`
 
 ## Router
 
@@ -28,24 +39,30 @@ Ler antes de executar qualquer modo:
 
 ## Modos
 
-1. `discovery`
+1. `ina-nau-course-review`
+   - Arquivo: `modes/mode-ina-nau-course-review.md`
+   - Use quando o usuario fornecer uma URL de curso NAU/INA ou pedir relatorio Betatest INA.
+   - Este e o modo preferencial da frente atual.
+
+2. `discovery`
    - Arquivo: `modes/mode-discovery.md`
    - Use quando ainda nao existe manifest confiavel do curso.
 
-2. `single-course-review`
+3. `single-course-review`
    - Arquivo: `modes/mode-single-course-review.md`
-   - Use quando o escopo e revisar um curso ou modulo ja identificado.
+   - Use para cursos fora da frente INA/NAU ou quando o usuario pedir explicitamente uma revisao generica.
 
-3. `batch-review`
+4. `batch-review`
    - Arquivo: `modes/mode-batch-review.md`
    - Use quando o usuario quer revisar varios cursos/modulos em lote.
 
-4. `report-remediation`
+5. `report-remediation`
    - Arquivo: `modes/mode-report-remediation.md`
    - Use quando ja existe relatorio e o trabalho e revisar, consolidar ou preparar plano de correcao.
 
 ## Tie-Breakers
 
+- Se ha URL de curso NAU/INA, curso MOOC INA, modelo Betatest ou caderno de encargos INA, use `ina-nau-course-review`.
 - Se nao ha manifest, comece por `discovery`.
 - Se ha um curso pequeno definido para MVP, use `single-course-review`.
 - Se a lista tem varios cursos e o fluxo ja foi calibrado, use `batch-review`.
@@ -62,3 +79,5 @@ Retornar:
 5. evidencias principais
 6. itens para revisao humana
 7. proximas acoes
+
+Para `ina-nau-course-review`, a saida principal deve ser o relatorio Betatest INA. JSON, DOM snapshots, screenshots e logs sao anexos internos de rastreabilidade.
